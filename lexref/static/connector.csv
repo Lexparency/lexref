@@ -1,0 +1,31 @@
+tag,language,pattern,add_stopper,description
+THEREOF,EN,thereof,TRUE,
+SEPARATE,DE,und de[srn],TRUE,marks a separation between two ref-groups
+RC,EN,to,TRUE,range_connector; 'through' would be a range-connector in american
+COM,XX,",",FALSE,comma
+LF,EN,",\s*(and\b|or\b)",FALSE,list final
+AND,EN,and,TRUE,
+OTHERX,EN,(or|except),TRUE,
+XPREVX,EN,((of|to) that)|of the,TRUE,back-reference pointer
+SPCLPR,EN,of( the)?,TRUE,source pointer; child left; parent right
+SPECIFIX,EN,", and in particular",FALSE,Specification connection.
+SPECIFIX,DE,"(,|und) insbesondere auf\b",FALSE,Specification connection.
+SPPLCR,DE,unter den,TRUE,Source pointer; Parent left; Child right
+RC,ES,a,TRUE,range_connector; 'through' would be a range-connector in american
+LF,ES,",\s*[yo]",FALSE,list final
+AND,ES,y( (las?|el|los))?,TRUE,
+OTHERX,ES,o,TRUE,
+BRCRPL,ES,(y )?sus?,TRUE,back-reference; child right parent left
+SPECIFIX,ES,", y en particular( (el|l[oa]s?))?",FALSE,Specification connection.
+SPCLPR,ES,del|de l[ao]s?,TRUE,source pointer; child left; parent right
+SPECIALX,ES,el (título|encabezado)|la (ecuación|tabla),TRUE,Special expression
+BRCRPL,DE,dessen,TRUE,back-reference; child right parent left
+RC,DE,bis,TRUE,range_connector; 'through' would be a range-connector in american
+LF,DE,",\s*(und|oder)",FALSE,list final
+AND,DE,und,TRUE,
+OTHERX,DE,oder,TRUE,
+XDESUX,ES,de sus?,TRUE,Complex Context. Child left; parent right; ultimate parent further left
+XPREVX,DE,jene[rs]|de[rs] genannten|des,TRUE,back-reference pointer
+SPCLPR,DE,(de[rs]|von|zum),TRUE,source pointer; child left; parent right
+SPECIALX,EN,the (title|heading|equation|table),TRUE,Special expression
+SPECIALX,DE,der Titel|die (Überschrift|Gleichung|Tabelle),TRUE,Special expression

@@ -1,0 +1,310 @@
+{
+  "DE": [
+    {
+      "text": "Art. 5 Abs. 2 Satz 1 und 2 Buchst. e VO 1370/2007",
+      "groups": "axis:value:axis:value:axis:value:connector:value:axis:value:axis:value"
+    },
+    {
+      "text": "Teils 3 Titel II",
+      "groups": "axis:value:axis:value"
+    },
+    {
+      "text": "Durchführungsverordnung (EU) 2017/1145",
+      "groups": "axis:value"
+    },
+    {
+      "text": "Richtlinien 70/524/EWG und 82/471/EWG",
+      "groups": "axis:value:connector:value"
+    },
+    {
+      "text": "Artikel 508 Absatz 3",
+      "groups": "axis:value:axis:value"
+    },
+    {
+      "text": "Artikel 7 Absätze 1 oder 3",
+      "groups": "axis:value:axis:value:connector:value"
+    },
+    {
+      "text": "Artikel 95 Absatz 1 und 96 Absatz 1",
+      "groups": "axis:value:axis:value:connector:value:axis:value"
+    },
+    {
+      "text": "Anhang I Abschnitt A Nummern 3 und 6 der Richtlinie 2004/39/EG",
+      "groups": "axis:value:axis:value:axis:value:connector:value:connector:axis:value"
+    },
+    {
+      "text": "Teilen 2 bis 5 und 8",
+      "groups": "axis:value:connector:value:connector:value"
+    },
+    {
+      "text": "Artikels 86 der Richtlinie 2013/36/EU oder Teilen",
+      "groups": "axis:value:connector:axis:value:connector:axis"
+    },
+    {
+      "text": "Artikels 113 Absatz 7",
+      "groups": "axis:value:axis:value"
+    },
+    {
+      "text": "Absätze 2 und 3 und des Artikels 144 Absatz 3 der Richtlinie 2013/36/EU",
+      "groups": "axis:value:connector:value:connector:connector:axis:value:axis:value:connector:axis:value"
+    },
+    {
+      "text": "Teilen 2 bis 8",
+      "groups": "axis:value:connector:value"
+    },
+    {
+      "text": "Anhang I Abschnitt A Nummern 3 und 6 der Richtlinie 2004/39/EG",
+      "groups": "axis:value:axis:value:axis:value:connector:value:connector:axis:value"
+    },
+    {
+      "text": "Artikeln 437, 438, 440, 442, 450, 451 und 453",
+      "groups": "axis:value:connector:value:connector:value:connector:value:connector:value:connector:value:connector:value"
+    },
+    {
+      "text": "Teils 3 und des Titels VII Kapitel 4 der Richtlinie 2013/36/EU",
+      "groups": "axis:value:connector:connector:axis:value:axis:value:connector:axis:value"
+    },
+    {
+      "text": "Artikel 36 Absatz 1 Buchstaben h und i, Artikel 56 Buchstaben c und d",
+      "groups": "axis:value:axis:value:axis:value:connector:value:connector:axis:value:axis:value:connector:value"
+    },
+    {
+      "text": "Artikel 66 Buchstaben c und d",
+      "groups": "axis:value:axis:value:connector:value"
+    },
+    {
+      "text": "Artikels 12 Absatz 1 der Richtlinie 83/349/EWG",
+      "groups": "axis:value:axis:value:connector:axis:value"
+    },
+    {
+      "text": "Absatz 1 und Absatz 2 Buchstabe b",
+      "groups": "axis:value:connector:axis:value:axis:value"
+    },
+    {
+      "text": "Artikel 107 AEUV",
+      "groups": "axis:value:named_entity"
+    }
+  ],
+  "EN": [
+    {
+      "text": "points (a), (b), and (e) of Article 4(1) of Regulation (EU) No 575/2013",
+      "groups": "axis:value:connector:value:connector:connector:value:connector:axis:value:value:connector:axis:value"
+    },
+    {
+      "text": "Article 153(1)(ii), Article 154(1)(i) and Article 181(1) (h) of Regulation (EU) No 575/2013",
+      "groups": "axis:value:value:value:connector:axis:value:value:value:connector:axis:value:value:value:connector:axis:value"
+    },
+    {
+      "text": "Article 407, 8",
+      "groups": "axis:value:connector:value"
+    },
+    {
+      "text": "Article 338(4)",
+      "groups": "axis:value:value"
+    },
+    {
+      "text": "Article",
+      "groups": "axis"
+    },
+    {
+      "text": "point (1) of Article 4(1) of Regulation (EU) No 575/2013",
+      "groups": "axis:value:connector:axis:value:value:connector:axis:value"
+    },
+    {
+      "text": "Articles 143(1), 151(4) and (9) of Regulation (EU) No 575/2013, 8",
+      "groups": "axis:value:value:connector:value:value:connector:value:connector:axis:value:connector:value"
+    },
+    {
+      "text": "Article 20(1) (a) of Regulation (EU) No 575/2013",
+      "groups": "axis:value:value:value:connector:axis:value"
+    },
+    {
+      "text": "paragraph (8)",
+      "groups": "axis:value"
+    },
+    {
+      "text": "Articles 50(1), 51 and 52 of Regulation (EU) No 575/2013",
+      "groups": "axis:value:value:connector:value:connector:value:connector:axis:value"
+    },
+    {
+      "text": "points (a) to (g), points (k)(ii) to (v) and point (l) of Article 36(1)",
+      "groups": "axis:value:connector:value:connector:axis:value:value:connector:value:connector:axis:value:connector:axis:value:value"
+    },
+    {
+      "text": "Chapter 4, Section 3 of Regulation (EU) No 575/2013",
+      "groups": "axis:value:connector:axis:value:connector:axis:value"
+    },
+    {
+      "text": "Article 181(1) (f)",
+      "groups": "axis:value:value:value"
+    },
+    {
+      "text": "Articles 143(1), 151(4) and (9) of Regulation (EU) No 575/2013",
+      "groups": "axis:value:value:connector:value:value:connector:value:connector:axis:value"
+    },
+    {
+      "text": "Article 147(2)(e) and (f) and Article 147(8) of Regulation (EU) No 575/2013",
+      "groups": "axis:value:value:value:connector:value:connector:axis:value:value:connector:axis:value"
+    },
+    {
+      "text": "point (1) of Section B of Annex I to Directive 2004/39/EC",
+      "groups": "axis:value:connector:axis:value:connector:axis:value:connector:axis:value"
+    },
+    {
+      "text": "Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013",
+      "groups": "axis:value:value:value:connector:value:connector:value:connector:axis:value"
+    },
+    {
+      "text": "Article 223",
+      "groups": "axis:value"
+    },
+    {
+      "text": "Articles 223 and 224",
+      "groups": "axis:value:connector:value"
+    },
+    {
+      "text": "point (a) of Article 285(3)",
+      "groups": "axis:value:connector:axis:value:value"
+    },
+    {
+      "text": "Regulation",
+      "groups": "axis"
+    },
+    {
+      "text": "point (4)(b) of paragraph 1 of this Article",
+      "groups": "axis:value:value:connector:axis:value:connector:connector:axis"
+    },
+    {
+      "text": "Article 464(2), a decision",
+      "groups": "axis:value:value:connector:value:axis"
+    },
+    {
+      "text": "paragraph to a third",
+      "groups": "axis:connector:value:value"
+    },
+    {
+      "text": "point (7) of Article 3(1) of Directive 2013/36/EU",
+      "groups": "axis:value:connector:axis:value:value:connector:axis:value"
+    },
+    {
+      "text": "Regulation (EU) No 1093/2010",
+      "groups": "axis:value"
+    },
+    {
+      "text": "Directives 2006/48/EC and 2006/49/EC",
+      "groups": "axis:value:connector:value"
+    },
+    {
+      "text": "Article 95(1) and Article 96(1)",
+      "groups": "axis:value:value:connector:axis:value:value"
+    },
+    {
+      "text": "Article 7(1) or (3)",
+      "groups": "axis:value:value:connector:value"
+    },
+    {
+      "text": "Part Seven",
+      "groups": "axis:value"
+    },
+    {
+      "text": "points (25)(b) and (d) of Article 13 of Directive 2009/138/EC",
+      "groups": "axis:value:value:connector:value:connector:axis:value:connector:axis:value"
+    },
+    {
+      "text": "Annexes to Directives 2006/48/EC and 2006/49/EC",
+      "groups": "axis:connector:axis:value:connector:value"
+    },
+    {
+      "text": "Directive 2013/36/EU and this Regulation",
+      "groups": "axis:value:connector:connector:axis"
+    },
+    {
+      "text": "Articles 124 and 164 of this Regulation and Articles 101, 103, 104, 105, 133, and 136 of Directive 2013/36/EU",
+      "groups": "axis:value:connector:value:connector:connector:axis:connector:axis:value:connector:value:connector:value:connector:value:connector:value:connector:connector:value:connector:axis:value"
+    },
+    {
+      "text": "Regulation and Articles 87 and 98 of Directive 2013/36/EU",
+      "groups": "axis:connector:axis:value:connector:value:connector:axis:value"
+    },
+    {
+      "text": "part",
+      "groups": "axis"
+    },
+    {
+      "text": "Article 407, 8",
+      "groups": "axis:value:connector:value"
+    },
+    {
+      "text": "Article 338(4)",
+      "groups": "axis:value:value"
+    },
+    {
+      "text": "Article",
+      "groups": "axis"
+    },
+    {
+      "text": "Articles 356 to 358",
+      "groups": "axis:value:connector:value"
+    },
+    {
+      "text": "Article 359, 360 or 361",
+      "groups": "axis:value:connector:value:connector:value"
+    },
+    {
+      "text": "Articles 25, 26(1) to (3), 28(1) and (2) and 29 to 37",
+      "groups": "axis:value:connector:value:value:connector:value:connector:value:value:connector:value:connector:value:connector:value"
+    },
+    {
+      "text": "Title V, Chapter 4, Section 1",
+      "groups": "axis:value:connector:axis:value:connector:axis:value"
+    },
+    {
+      "text": "Article 75",
+      "groups": "axis:value"
+    },
+    {
+      "text": "Articles 120 to 122",
+      "groups": "axis:value:connector:value"
+    },
+    {
+      "text": "Articles 10(1), 19 to 22, 40, 42 to 52 and 54",
+      "groups": "axis:value:value:connector:value:connector:value:connector:value:connector:value:connector:value:connector:value"
+    },
+    {
+      "text": "Regulations (eec) no 2700/93 and (ec) no 2342/1999",
+      "groups": "axis:value:connector:value"
+    },
+    {
+      "text": "regulation (ec, euratom) no 58/97",
+      "groups": "axis:value"
+    },
+    {
+      "text": "Directive 76/372/EEC",
+      "groups": "axis:value"
+    },
+    {
+      "text": "Treaty establishing the European Economic Community",
+      "groups": "named_entity"
+    },
+    {
+      "text": "Treaty establishing the European Economic Community",
+      "groups": "named_entity"
+    },
+    {
+      "text": "Articles 54 and 82",
+      "groups": "axis:value:connector:value"
+    },
+    {
+      "text": "Part Two, Title I",
+      "groups": "axis:value:connector:axis:value"
+    },
+    {
+      "text": "title of Chapter 6",
+      "groups": "axis:connector:axis:value"
+    },
+    {
+      "text": "Article 5 of Directive 85/611/EEC, paragraph 4",
+      "groups": "axis:value:connector:axis:value:connector:axis:value"
+    }
+  ]
+}

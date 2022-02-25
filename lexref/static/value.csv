@@ -1,0 +1,12 @@
+order,tag,description,examples,decorable,caseable,capitalizable,convert
+11,NSTNM,Nested enumeration,4.3.2,FALSE,FALSE,FALSE,FALSE
+10,SPN,Spoken number,One;Two,FALSE,FALSE,TRUE,TRUE
+9,SRNK,Spoken rank,First;Second,FALSE,TRUE,TRUE,TRUE
+8,LATIN,Spoken latin,bis; ter; quarter,FALSE,FALSE,FALSE,FALSE
+7,NM,Simple number,1; 2; 3,TRUE,FALSE,FALSE,FALSE
+6,AL,Alphabetic,a; b; c,TRUE,TRUE,FALSE,FALSE
+5,ROM,Roman numbers,i; ii; iii,TRUE,TRUE,FALSE,FALSE
+4,AMBRA,Ambiguous roman or alphabetic,i; v; x,TRUE,TRUE,FALSE,FALSE
+3,EURCOO,Coordinate of european Regulation,(EU) 575/2013,FALSE,FALSE,FALSE,
+2,EULCOO,Coordinate of european Directive,2013/36/EU,FALSE,FALSE,FALSE,
+1,EUFCOO,Coordiante of Framework decisions,2009/299/JI,FALSE,FALSE,FALSE,

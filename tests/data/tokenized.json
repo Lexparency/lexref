@@ -1,0 +1,5800 @@
+{
+  "DE": [
+    {
+      "text": "ERSTER TEIL",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 0,
+            "end": 11
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "value",
+                "value": "SRNK"
+              },
+              "span": {
+                "start": 0,
+                "end": 6
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PRT"
+              },
+              "span": {
+                "start": 7,
+                "end": 11
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Die Vergabekammer hat dem Antragsgegner aufgegeben, bei der geplanten Direktvergabe die Anforderungen des Art. 5 Abs. 2 Satz 1 und 2 Buchst. e VO 1370/2007 sicherzustellen.",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 106,
+            "end": 155
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 106,
+                "end": 110
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 111,
+                "end": 112
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              },
+              "span": {
+                "start": 113,
+                "end": 117
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 118,
+                "end": 119
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PHR"
+              },
+              "span": {
+                "start": 120,
+                "end": 124
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 125,
+                "end": 126
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 127,
+                "end": 130
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 131,
+                "end": 132
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "LTR"
+              },
+              "span": {
+                "start": 133,
+                "end": 140
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L"
+              },
+              "span": {
+                "start": 141,
+                "end": 142
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 143,
+                "end": 145
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 146,
+                "end": 155
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "F\u00fcr die Zwecke des Teils 3 Titel II bezeichnet der Ausdruck",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 19,
+            "end": 35
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PRT"
+              },
+              "span": {
+                "start": 19,
+                "end": 24
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 25,
+                "end": 26
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "TIT"
+              },
+              "span": {
+                "start": 27,
+                "end": 32
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "ROM_U"
+              },
+              "span": {
+                "start": 33,
+                "end": 35
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "zur Berichtigung der Durchf\u00fchrungsverordnung (EU) 2017/1145 \u00fcber die Marktr\u00fccknahme bestimmter gem\u00e4\u00df den Richtlinien 70/524/EWG und 82/471/EWG des Rates zugelassener Futtermittelzusatzstoffe",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 21,
+            "end": 59
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 21,
+                "end": 44
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 45,
+                "end": 59
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 105,
+            "end": 142
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 105,
+                "end": 116
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 117,
+                "end": 127
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 128,
+                "end": 131
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 132,
+                "end": 142
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Bis der Bericht der Kommission nach Artikel 508 Absatz 3 vorliegt, ...",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 36,
+            "end": 56
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 36,
+                "end": 43
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 44,
+                "end": 47
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              },
+              "span": {
+                "start": 48,
+                "end": 54
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 55,
+                "end": 56
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Ausnahmen gem\u00e4\u00df Artikel 7 Abs\u00e4tze 1 oder 3 gew\u00e4hrt haben",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 16,
+            "end": 42
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 16,
+                "end": 23
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 24,
+                "end": 25
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              },
+              "span": {
+                "start": 26,
+                "end": 33
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 34,
+                "end": 35
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "OTHERX"
+              },
+              "span": {
+                "start": 36,
+                "end": 40
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 41,
+                "end": 42
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Ausnahme von Wertpapierfirmen im Sinne der Artikel 95 Absatz 1 und 96 Absatz 1 und Instituten",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 43,
+            "end": 78
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 43,
+                "end": 50
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 51,
+                "end": 53
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              },
+              "span": {
+                "start": 54,
+                "end": 60
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 61,
+                "end": 62
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 63,
+                "end": 66
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 67,
+                "end": 69
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              },
+              "span": {
+                "start": 70,
+                "end": 76
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 77,
+                "end": 78
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "f\u00fcr die Erbringung der in Anhang I Abschnitt A Nummern 3 und 6 der Richtlinie 2004/39/EG genannten Wertpapierdienstleistungen und Anlaget\u00e4tigkeiten",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 26,
+            "end": 88
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ANX"
+              },
+              "span": {
+                "start": 26,
+                "end": 32
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AMBRA_U"
+              },
+              "span": {
+                "start": 33,
+                "end": 34
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "SEC"
+              },
+              "span": {
+                "start": 35,
+                "end": 44
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_U"
+              },
+              "span": {
+                "start": 45,
+                "end": 46
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "NUM"
+              },
+              "span": {
+                "start": 47,
+                "end": 54
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 55,
+                "end": 56
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 57,
+                "end": 60
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 61,
+                "end": 62
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 63,
+                "end": 66
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 67,
+                "end": 77
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 78,
+                "end": 88
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Institute halten die in den Teilen 2 bis 5 und 8 festgelegten Anforderungen auf Einzelbasis ein.",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 28,
+            "end": 48
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PRT"
+              },
+              "span": {
+                "start": 28,
+                "end": 34
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 35,
+                "end": 36
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 37,
+                "end": 40
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 41,
+                "end": 42
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 43,
+                "end": 46
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 47,
+                "end": 48
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anwendung des Artikels 86 der Richtlinie 2013/36/EU oder Teilen davon absehen.",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 14,
+            "end": 51
+          },
+          "children": [
+            {
+              "span": {
+                "end": 22,
+                "start": 14
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 25,
+                "start": 23
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 29,
+                "start": 26
+              },
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              }
+            },
+            {
+              "span": {
+                "end": 40,
+                "start": 30
+              },
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              }
+            },
+            {
+              "span": {
+                "end": 51,
+                "start": 41
+              },
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Sicherungssystems im Sinne des Artikels 113 Absatz 7 sind",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 31,
+            "end": 52
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 31,
+                "end": 39
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 40,
+                "end": 43
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              },
+              "span": {
+                "start": 44,
+                "end": 50
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 51,
+                "end": 52
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Die zust\u00e4ndigen Beh\u00f6rden k\u00f6nnen vorbehaltlich der Abs\u00e4tze 2 und 3 und des Artikels 144 Absatz 3 der Richtlinie 2013/36/EU Mutterinstituten auf Einzelfallbasis gestatten",
+      "language": "DE",
+      "hoods": [
+        {
+          "children": [
+            {
+              "span": {
+                "end": 57,
+                "start": 50
+              },
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              }
+            },
+            {
+              "span": {
+                "end": 59,
+                "start": 58
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 63,
+                "start": 60
+              },
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              }
+            },
+            {
+              "span": {
+                "end": 65,
+                "start": 64
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            }
+          ],
+          "span": {
+            "end": 65,
+            "start": 50
+          }
+        },
+        {
+          "children": [
+            {
+              "span": {
+                "end": 82,
+                "start": 74
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 86,
+                "start": 83
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 93,
+                "start": 87
+              },
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              }
+            },
+            {
+              "span": {
+                "end": 95,
+                "start": 94
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 99,
+                "start": 96
+              },
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              }
+            },
+            {
+              "span": {
+                "end": 110,
+                "start": 100
+              },
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              }
+            },
+            {
+              "span": {
+                "end": 121,
+                "start": 111
+              },
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              }
+            }
+          ],
+          "span": {
+            "end": 121,
+            "start": 74
+          }
+        }
+      ]
+    },
+    {
+      "text": "Anforderungen gem\u00e4\u00df den Teilen 2 bis 8 ausnehmen, vorausgesetzt dass",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 24,
+            "end": 38
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PRT"
+              },
+              "span": {
+                "start": 24,
+                "end": 30
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 31,
+                "end": 32
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 33,
+                "end": 36
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 37,
+                "end": 38
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Erbringung der in Anhang I Abschnitt A Nummern 3 und 6 der Richtlinie 2004/39/EG genannten Wertpapierdienstleistungen",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 18,
+            "end": 80
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ANX"
+              },
+              "span": {
+                "start": 18,
+                "end": 24
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AMBRA_U"
+              },
+              "span": {
+                "start": 25,
+                "end": 26
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "SEC"
+              },
+              "span": {
+                "start": 27,
+                "end": 36
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_U"
+              },
+              "span": {
+                "start": 37,
+                "end": 38
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "NUM"
+              },
+              "span": {
+                "start": 39,
+                "end": 46
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 47,
+                "end": 48
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 49,
+                "end": 52
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 53,
+                "end": 54
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 55,
+                "end": 58
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 59,
+                "end": 69
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 70,
+                "end": 80
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "legen die Informationen nach den Artikeln 437, 438, 440, 442, 450, 451 und 453 auf Einzelbasis oder auf teilkonsolidierter Basis offen.",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 33,
+            "end": 78
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 33,
+                "end": 41
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 42,
+                "end": 45
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 45,
+                "end": 46
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 47,
+                "end": 50
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 50,
+                "end": 51
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 52,
+                "end": 55
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 55,
+                "end": 56
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 57,
+                "end": 60
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 60,
+                "end": 61
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 62,
+                "end": 65
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 65,
+                "end": 66
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 67,
+                "end": 70
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 71,
+                "end": 74
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 75,
+                "end": 78
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Anwendung des Teils 3 und des Titels VII Kapitel 4 der Richtlinie 2013/36/EU auf konsolidierter Basis absehen.",
+      "language": "DE",
+      "hoods": [
+        {
+          "children": [
+            {
+              "span": {
+                "end": 19,
+                "start": 14
+              },
+              "tag": {
+                "group": "axis",
+                "value": "PRT"
+              }
+            },
+            {
+              "span": {
+                "end": 21,
+                "start": 20
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            }
+          ],
+          "span": {
+            "end": 21,
+            "start": 14
+          }
+        },
+        {
+          "children": [
+            {
+              "span": {
+                "end": 36,
+                "start": 30
+              },
+              "tag": {
+                "group": "axis",
+                "value": "TIT"
+              }
+            },
+            {
+              "span": {
+                "end": 40,
+                "start": 37
+              },
+              "tag": {
+                "group": "value",
+                "value": "ROM_U"
+              }
+            },
+            {
+              "span": {
+                "end": 48,
+                "start": 41
+              },
+              "tag": {
+                "group": "axis",
+                "value": "CHP"
+              }
+            },
+            {
+              "span": {
+                "end": 50,
+                "start": 49
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 54,
+                "start": 51
+              },
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              }
+            },
+            {
+              "span": {
+                "end": 65,
+                "start": 55
+              },
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              }
+            },
+            {
+              "span": {
+                "end": 76,
+                "start": 66
+              },
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              }
+            }
+          ],
+          "span": {
+            "end": 76,
+            "start": 30
+          }
+        }
+      ]
+    },
+    {
+      "text": "Instrumenten im Sinne der Artikel 36 Absatz 1 Buchstaben h und i, Artikel 56 Buchstaben c und d sowie Artikel 66 Buchstaben c und d an, gegen bzw. in Bezug auf Wertpapierfirmen",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 26,
+            "end": 95
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 26,
+                "end": 33
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 34,
+                "end": 36
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              },
+              "span": {
+                "start": 37,
+                "end": 43
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 44,
+                "end": 45
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "LTR"
+              },
+              "span": {
+                "start": 46,
+                "end": 56
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L"
+              },
+              "span": {
+                "start": 57,
+                "end": 58
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 59,
+                "end": 62
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AMBRA_L"
+              },
+              "span": {
+                "start": 63,
+                "end": 64
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 64,
+                "end": 65
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 66,
+                "end": 73
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 74,
+                "end": 76
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "LTR"
+              },
+              "span": {
+                "start": 77,
+                "end": 87
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L"
+              },
+              "span": {
+                "start": 88,
+                "end": 89
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 90,
+                "end": 93
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L"
+              },
+              "span": {
+                "start": 94,
+                "end": 95
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 102,
+            "end": 131
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 102,
+                "end": 109
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 110,
+                "end": 112
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "LTR"
+              },
+              "span": {
+                "start": 113,
+                "end": 123
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L"
+              },
+              "span": {
+                "start": 124,
+                "end": 125
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 126,
+                "end": 129
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L"
+              },
+              "span": {
+                "start": 130,
+                "end": 131
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Beziehung im Sinne des Artikels 12 Absatz 1 der Richtlinie 83/349/EWG verbunden,",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 23,
+            "end": 69
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 23,
+                "end": 31
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 32,
+                "end": 34
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              },
+              "span": {
+                "start": 35,
+                "end": 41
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 42,
+                "end": 43
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 44,
+                "end": 47
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 48,
+                "end": 58
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 59,
+                "end": 69
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Wenn in den F\u00e4llen nach Absatz 1 und Absatz 2 Buchstabe b mehrere Unternehmen die dort genannten Kriterien erf\u00fcllen.",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 24,
+            "end": 57
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              },
+              "span": {
+                "start": 24,
+                "end": 30
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 31,
+                "end": 32
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 33,
+                "end": 36
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PAR"
+              },
+              "span": {
+                "start": 37,
+                "end": 43
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 44,
+                "end": 45
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "LTR"
+              },
+              "span": {
+                "start": 46,
+                "end": 55
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L"
+              },
+              "span": {
+                "start": 56,
+                "end": 57
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Instrumente wurden von der Kommission gem\u00e4\u00df Artikel 107 AEUV als mit dem Binnenmarkt vereinbar angesehen.",
+      "language": "DE",
+      "hoods": [
+        {
+          "span": {
+            "start": 44,
+            "end": 60
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 44,
+                "end": 51
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 52,
+                "end": 55
+              }
+            },
+            {
+              "tag": {
+                "group": "named_entity",
+                "value": "PND_ABBREV"
+              },
+              "span": {
+                "start": 56,
+                "end": 60
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "EN": [
+    {
+      "text": "As is described in points (a), (b), and (e) of Article 4(1) of Regulation (EU) No 575/2013 but not elsewhere",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 19,
+            "end": 90
+          },
+          "children": [
+            {
+              "span": {
+                "end": 25,
+                "start": 19
+              },
+              "tag": {
+                "group": "axis",
+                "value": "PT"
+              }
+            },
+            {
+              "span": {
+                "end": 29,
+                "start": 26
+              },
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 30,
+                "start": 29
+              },
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              }
+            },
+            {
+              "span": {
+                "end": 34,
+                "start": 31
+              },
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 39,
+                "start": 34
+              },
+              "tag": {
+                "group": "connector",
+                "value": "LF"
+              }
+            },
+            {
+              "span": {
+                "end": 43,
+                "start": 40
+              },
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 46,
+                "start": 44
+              },
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              }
+            },
+            {
+              "span": {
+                "end": 54,
+                "start": 47
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 56,
+                "start": 55
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 59,
+                "start": 56
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 62,
+                "start": 60
+              },
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              }
+            },
+            {
+              "span": {
+                "end": 73,
+                "start": 63
+              },
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              }
+            },
+            {
+              "span": {
+                "end": 90,
+                "start": 74
+              },
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "This is referred to in Article 153(1)(ii), Article 154(1)(i) and Article 181(1) (h) of Regulation (EU) No 575/2013.",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 23,
+            "end": 114
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 23,
+                "end": 30
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 31,
+                "end": 34
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 34,
+                "end": 37
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "ROM_L_BB"
+              },
+              "span": {
+                "start": 37,
+                "end": 41
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 41,
+                "end": 42
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 43,
+                "end": 50
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 51,
+                "end": 54
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 54,
+                "end": 57
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AMBRA_L_BB"
+              },
+              "span": {
+                "start": 57,
+                "end": 60
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 61,
+                "end": 64
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 65,
+                "end": 72
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 73,
+                "end": 76
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 76,
+                "end": 79
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 80,
+                "end": 83
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 84,
+                "end": 86
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 87,
+                "end": 97
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 98,
+                "end": 114
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "For additional risk weight in accordance with Article 407, 8 % of the total risk weight shall be applied. Except for securitisation positions treated in accordance with Article 338(4), the institution from the application of this Article in order to calculate its own funds requirement against specific risk.",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 46,
+            "end": 57
+          },
+          "children": [
+            {
+              "span": {
+                "end": 53,
+                "start": 46
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 57,
+                "start": 54
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 169,
+            "end": 183
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 169,
+                "end": 176
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 177,
+                "end": 180
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 180,
+                "end": 183
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "As is described in point (1) of Article 4(1) of Regulation (EU) No 575/2013",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 19,
+            "end": 75
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PT"
+              },
+              "span": {
+                "start": 19,
+                "end": 24
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 25,
+                "end": 28
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 29,
+                "end": 31
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 32,
+                "end": 39
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 40,
+                "end": 41
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 41,
+                "end": 44
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 45,
+                "end": 47
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 48,
+                "end": 58
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 59,
+                "end": 75
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "As is described in Articles 143(1), 151(4) and (9) of Regulation (EU) No 575/2013, 8 % are used",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 19,
+            "end": 81
+          },
+          "children": [
+            {
+              "span": {
+                "end": 27,
+                "start": 19
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 31,
+                "start": 28
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 34,
+                "start": 31
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 35,
+                "start": 34
+              },
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              }
+            },
+            {
+              "span": {
+                "end": 39,
+                "start": 36
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 42,
+                "start": 39
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 46,
+                "start": 43
+              },
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              }
+            },
+            {
+              "span": {
+                "end": 50,
+                "start": 47
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 53,
+                "start": 51
+              },
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              }
+            },
+            {
+              "span": {
+                "end": 64,
+                "start": 54
+              },
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              }
+            },
+            {
+              "span": {
+                "end": 81,
+                "start": 65
+              },
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "referred to in Article 20(1) (a) of Regulation (EU) No 575/2013, the technical standards referred to in paragraph (8) of that Article",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 15,
+            "end": 63
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 15,
+                "end": 22
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 23,
+                "end": 25
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 25,
+                "end": 28
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 29,
+                "end": 32
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 33,
+                "end": 35
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 36,
+                "end": 46
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 47,
+                "end": 63
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 104,
+            "end": 133
+          },
+          "children": [
+            {
+              "span": {
+                "end": 113,
+                "start": 104
+              },
+              "tag": {
+                "group": "axis",
+                "value": "PG"
+              }
+            },
+            {
+              "span": {
+                "end": 117,
+                "start": 114
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 125,
+                "start": 118
+              },
+              "tag": {
+                "group": "connector",
+                "value": "XPREVX"
+              }
+            },
+            {
+              "span": {
+                "end": 133,
+                "start": 126
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The requirements of Articles 50(1), 51 and 52 of Regulation (EU) No 575/2013 ...",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 20,
+            "end": 76
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 20,
+                "end": 28
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 29,
+                "end": 31
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 31,
+                "end": 34
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 34,
+                "end": 35
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 36,
+                "end": 38
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 39,
+                "end": 42
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 43,
+                "end": 45
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 46,
+                "end": 48
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 49,
+                "end": 59
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 60,
+                "end": 76
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The deductions referred to in points (a) to (g), points (k)(ii) to (v) and point (l) of Article 36(1) are important.",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 30,
+            "end": 101
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PT"
+              },
+              "span": {
+                "start": 30,
+                "end": 36
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 37,
+                "end": 40
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 41,
+                "end": 43
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 44,
+                "end": 47
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 47,
+                "end": 48
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PT"
+              },
+              "span": {
+                "start": 49,
+                "end": 55
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 56,
+                "end": 59
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "ROM_L_BB"
+              },
+              "span": {
+                "start": 59,
+                "end": 63
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 64,
+                "end": 66
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AMBRA_L_BB"
+              },
+              "span": {
+                "start": 67,
+                "end": 70
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 71,
+                "end": 74
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PT"
+              },
+              "span": {
+                "start": 75,
+                "end": 80
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 81,
+                "end": 84
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 85,
+                "end": 87
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 88,
+                "end": 95
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 96,
+                "end": 98
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 98,
+                "end": 101
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Consistent with those set out in Chapter 4, Section 3 of Regulation (EU) No 575/2013, as referred to in Article 181(1) (f) of that Regulation.",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 33,
+            "end": 84
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "CHP"
+              },
+              "span": {
+                "start": 33,
+                "end": 40
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 41,
+                "end": 42
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 42,
+                "end": 43
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "SEC"
+              },
+              "span": {
+                "start": 44,
+                "end": 51
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 52,
+                "end": 53
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 54,
+                "end": 56
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 57,
+                "end": 67
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 68,
+                "end": 84
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 104,
+            "end": 141
+          },
+          "children": [
+            {
+              "span": {
+                "end": 111,
+                "start": 104
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 115,
+                "start": 112
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 118,
+                "start": 115
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 122,
+                "start": 119
+              },
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 130,
+                "start": 123
+              },
+              "tag": {
+                "group": "connector",
+                "value": "XPREVX"
+              }
+            },
+            {
+              "span": {
+                "end": 141,
+                "start": 131
+              },
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Rating systems in accordance with Articles 143(1), 151(4) and (9) of Regulation (EU) No 575/2013, but also applies to them.",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 34,
+            "end": 96
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 34,
+                "end": 42
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 43,
+                "end": 46
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 46,
+                "end": 49
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 49,
+                "end": 50
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 51,
+                "end": 54
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 54,
+                "end": 57
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 58,
+                "end": 61
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 62,
+                "end": 65
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 66,
+                "end": 68
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 69,
+                "end": 79
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 80,
+                "end": 96
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "referred to in Article 147(2)(e) and (f) and Article 147(8) of Regulation (EU) No 575/2013",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 15,
+            "end": 90
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 15,
+                "end": 22
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 23,
+                "end": 26
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 26,
+                "end": 29
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 29,
+                "end": 32
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 33,
+                "end": 36
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 37,
+                "end": 40
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 41,
+                "end": 44
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 45,
+                "end": 52
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 53,
+                "end": 56
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 56,
+                "end": 59
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 60,
+                "end": 62
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 63,
+                "end": 73
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 74,
+                "end": 90
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "... ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which ...",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 37,
+            "end": 94
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PT"
+              },
+              "span": {
+                "start": 37,
+                "end": 42
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 43,
+                "end": 46
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 47,
+                "end": 49
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "SEC"
+              },
+              "span": {
+                "start": 50,
+                "end": 57
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_U"
+              },
+              "span": {
+                "start": 58,
+                "end": 59
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 60,
+                "end": 62
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ANX"
+              },
+              "span": {
+                "start": 63,
+                "end": 68
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AMBRA_U"
+              },
+              "span": {
+                "start": 69,
+                "end": 70
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 71,
+                "end": 73
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 74,
+                "end": 83
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 84,
+                "end": 94
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Transactions listed in Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013 shall calculate in accordance with Article 223 of that Regulation with supervisory volatility adjustments, specified in Articles 223 and 224 of that Regulation. The exception set out in point (a) of Article 285(3) of that Regulation, shall not apply",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 23,
+            "end": 84
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 23,
+                "end": 30
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 31,
+                "end": 34
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 34,
+                "end": 37
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 37,
+                "end": 40
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 40,
+                "end": 41
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 42,
+                "end": 45
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 46,
+                "end": 49
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 50,
+                "end": 53
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 54,
+                "end": 56
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 57,
+                "end": 67
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 68,
+                "end": 84
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 120,
+            "end": 150
+          },
+          "children": [
+            {
+              "span": {
+                "end": 127,
+                "start": 120
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 131,
+                "start": 128
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 139,
+                "start": 132
+              },
+              "tag": {
+                "group": "connector",
+                "value": "XPREVX"
+              }
+            },
+            {
+              "span": {
+                "end": 150,
+                "start": 140
+              },
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 205,
+            "end": 244
+          },
+          "children": [
+            {
+              "span": {
+                "end": 213,
+                "start": 205
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 217,
+                "start": 214
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 221,
+                "start": 218
+              },
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              }
+            },
+            {
+              "span": {
+                "end": 225,
+                "start": 222
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 233,
+                "start": 226
+              },
+              "tag": {
+                "group": "connector",
+                "value": "XPREVX"
+              }
+            },
+            {
+              "span": {
+                "end": 244,
+                "start": 234
+              },
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 271,
+            "end": 317
+          },
+          "children": [
+            {
+              "span": {
+                "end": 276,
+                "start": 271
+              },
+              "tag": {
+                "group": "axis",
+                "value": "PT"
+              }
+            },
+            {
+              "span": {
+                "end": 280,
+                "start": 277
+              },
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 283,
+                "start": 281
+              },
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              }
+            },
+            {
+              "span": {
+                "end": 291,
+                "start": 284
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 295,
+                "start": 292
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 298,
+                "start": 295
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              }
+            },
+            {
+              "span": {
+                "end": 306,
+                "start": 299
+              },
+              "tag": {
+                "group": "connector",
+                "value": "XPREVX"
+              }
+            },
+            {
+              "span": {
+                "end": 317,
+                "start": 307
+              },
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "For the purposes of point (4)(b) of paragraph 1 of this Article, the Commission may adopt, by way of implementing acts, and subject to the examination procedure referred to in Article 464(2), a decision as to me. In the absence set out in this paragraph to a third authority.",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 20,
+            "end": 47
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PT"
+              },
+              "span": {
+                "start": 20,
+                "end": 25
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 26,
+                "end": 29
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 29,
+                "end": 32
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 33,
+                "end": 35
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PG"
+              },
+              "span": {
+                "start": 36,
+                "end": 45
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 46,
+                "end": 47
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 176,
+            "end": 190
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 176,
+                "end": 183
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 184,
+                "end": 187
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 187,
+                "end": 190
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "\"management body\" means management body as defined in point (7) of Article 3(1) of Directive 2013/36/EU",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 54,
+            "end": 103
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PT"
+              },
+              "span": {
+                "start": 54,
+                "end": 59
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 60,
+                "end": 63
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 64,
+                "end": 66
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 67,
+                "end": 74
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 75,
+                "end": 76
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 76,
+                "end": 79
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 80,
+                "end": 82
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 83,
+                "end": 92
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 93,
+                "end": 103
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Regulation (EU) No 1093/2010 requires myEBA to abstract within the scope of Directives 2006/48/EC and 2006/49/EC. myEBA is also required to abstract in the field..",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 0,
+            "end": 28
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 0,
+                "end": 10
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 11,
+                "end": 28
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 76,
+            "end": 112
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 76,
+                "end": 86
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 87,
+                "end": 97
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 98,
+                "end": 101
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 102,
+                "end": 112
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Institutions, except for investment firms referred to in Article 95(1) and Article 96(1) and institutions for which competent authorities have exercised the derogation specified in Article 7(1) or (3), shall comply with the obligations laid down in Part Seven on an individual basis.",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 57,
+            "end": 88
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 57,
+                "end": 64
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 65,
+                "end": 67
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 67,
+                "end": 70
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 71,
+                "end": 74
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 75,
+                "end": 82
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 83,
+                "end": 85
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 85,
+                "end": 88
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 181,
+            "end": 200
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 181,
+                "end": 188
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 189,
+                "end": 190
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 190,
+                "end": 193
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "OTHERX"
+              },
+              "span": {
+                "start": 194,
+                "end": 196
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 197,
+                "end": 200
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 249,
+            "end": 259
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PRT"
+              },
+              "span": {
+                "start": 249,
+                "end": 253
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "SPN"
+              },
+              "span": {
+                "start": 254,
+                "end": 259
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "\"financial undertaking\" has the same meaning as under points (25)(b) and (d) of Article 13 of Directive 2009/138/EC;",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 54,
+            "end": 115
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PT"
+              },
+              "span": {
+                "start": 54,
+                "end": 60
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 61,
+                "end": 65
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 65,
+                "end": 68
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 69,
+                "end": 72
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AL_L_BB"
+              },
+              "span": {
+                "start": 73,
+                "end": 76
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 77,
+                "end": 79
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 80,
+                "end": 87
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 88,
+                "end": 90
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 91,
+                "end": 93
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 94,
+                "end": 103
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 104,
+                "end": 115
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "For greater accessibility, the provisions of the Annexes to Directives 2006/48/EC and 2006/49/EC should be integrated into the enacting terms of Directive 2013/36/EU and this Regulation.",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 49,
+            "end": 96
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ANX"
+              },
+              "span": {
+                "start": 49,
+                "end": 56
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 57,
+                "end": 59
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 60,
+                "end": 70
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 71,
+                "end": 81
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 82,
+                "end": 85
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 86,
+                "end": 96
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 145,
+            "end": 165
+          },
+          "children": [
+            {
+              "span": {
+                "end": 154,
+                "start": 145
+              },
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              }
+            },
+            {
+              "span": {
+                "end": 165,
+                "start": 155
+              },
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "a justification of why Articles 124 and 164 of this Regulation and Articles 101, 103, 104, 105, 133, and 136 of Directive 2013/36/EU cannot adequately address the macroprudential or systemic risk identified, taking into account the relative effectiveness of those measures;",
+      "language": "EN",
+      "hoods": [
+        {
+          "children": [
+            {
+              "span": {
+                "end": 31,
+                "start": 23
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 35,
+                "start": 32
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 39,
+                "start": 36
+              },
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              }
+            },
+            {
+              "span": {
+                "end": 43,
+                "start": 40
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            }
+          ],
+          "span": {
+            "end": 43,
+            "start": 23
+          }
+        },
+        {
+          "children": [
+            {
+              "span": {
+                "end": 75,
+                "start": 67
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 79,
+                "start": 76
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 80,
+                "start": 79
+              },
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              }
+            },
+            {
+              "span": {
+                "end": 84,
+                "start": 81
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 85,
+                "start": 84
+              },
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              }
+            },
+            {
+              "span": {
+                "end": 89,
+                "start": 86
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 90,
+                "start": 89
+              },
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              }
+            },
+            {
+              "span": {
+                "end": 94,
+                "start": 91
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 95,
+                "start": 94
+              },
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              }
+            },
+            {
+              "span": {
+                "end": 99,
+                "start": 96
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 104,
+                "start": 99
+              },
+              "tag": {
+                "group": "connector",
+                "value": "LF"
+              }
+            },
+            {
+              "span": {
+                "end": 108,
+                "start": 105
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 111,
+                "start": 109
+              },
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              }
+            },
+            {
+              "span": {
+                "end": 121,
+                "start": 112
+              },
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              }
+            },
+            {
+              "span": {
+                "end": 132,
+                "start": 122
+              },
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              }
+            }
+          ],
+          "span": {
+            "end": 132,
+            "start": 67
+          }
+        }
+      ]
+    },
+    {
+      "text": "whether the leverage ratio framework provided by this Regulation and Articles 87 and 98 of Directive 2013/36/EU is the appropriate tool to suppress the risk of excessive leverage on the part of the institutions in a satisfactory manner and degree;",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 69,
+            "end": 111
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 69,
+                "end": 77
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 78,
+                "end": 80
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 81,
+                "end": 84
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 85,
+                "end": 87
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 88,
+                "end": 90
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 91,
+                "end": 100
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 101,
+                "end": 111
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "For securitisation positions that are subject to an additional risk weight in accordance with Article 407, 8 % of the total risk. Except for securitisation accordance with Article 338(4), the institution from the application of this Article in order to calculate.",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 94,
+            "end": 105
+          },
+          "children": [
+            {
+              "span": {
+                "end": 101,
+                "start": 94
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 105,
+                "start": 102
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 172,
+            "end": 186
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 172,
+                "end": 179
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 180,
+                "end": 183
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 183,
+                "end": 186
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Subject to Articles 356 to 358, institutions shall calculate the own funds requirement for commodities risk with one of the methods set out in Article 359, 360 or 361",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 11,
+            "end": 30
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 11,
+                "end": 19
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 20,
+                "end": 23
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 24,
+                "end": 26
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 27,
+                "end": 30
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 143,
+            "end": 166
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 143,
+                "end": 150
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 151,
+                "end": 154
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 154,
+                "end": 155
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 156,
+                "end": 159
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "OTHERX"
+              },
+              "span": {
+                "start": 160,
+                "end": 162
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 163,
+                "end": 166
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "within their territories, in accordance with Articles 25, 26(1) to (3), 28(1) and (2) and 29 to 37 either by the establishment of a branch or by way of the provision of services,",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 45,
+            "end": 98
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 45,
+                "end": 53
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 54,
+                "end": 56
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 56,
+                "end": 57
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 58,
+                "end": 60
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 60,
+                "end": 63
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 64,
+                "end": 66
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 67,
+                "end": 70
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 70,
+                "end": 71
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 72,
+                "end": 74
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 74,
+                "end": 77
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 78,
+                "end": 81
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 82,
+                "end": 85
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 86,
+                "end": 89
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 90,
+                "end": 92
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 93,
+                "end": 95
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 96,
+                "end": 98
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "accordance with Title V, Chapter 4, Section 1, in particular for the purposes of the minimum own funds requirements set out in Article 75 for the control of large exposures and for purposes of the limitation of holdings provided for in Articles 120 to 122.",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 16,
+            "end": 45
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "TIT"
+              },
+              "span": {
+                "start": 16,
+                "end": 21
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "AMBRA_U"
+              },
+              "span": {
+                "start": 22,
+                "end": 23
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 23,
+                "end": 24
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "CHP"
+              },
+              "span": {
+                "start": 25,
+                "end": 32
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 33,
+                "end": 34
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 34,
+                "end": 35
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "SEC"
+              },
+              "span": {
+                "start": 36,
+                "end": 43
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 44,
+                "end": 45
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 127,
+            "end": 137
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 127,
+                "end": 134
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 135,
+                "end": 137
+              }
+            }
+          ]
+        },
+        {
+          "span": {
+            "start": 236,
+            "end": 255
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 236,
+                "end": 244
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 245,
+                "end": 248
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 249,
+                "end": 251
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 252,
+                "end": 255
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "The competent authorities of the home Member State shall ensure the supervision of the financial institution in accordance with Articles 10(1), 19 to 22, 40, 42 to 52 and 54.",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 128,
+            "end": 173
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 128,
+                "end": 136
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 137,
+                "end": 139
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM_BB"
+              },
+              "span": {
+                "start": 139,
+                "end": 142
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 142,
+                "end": 143
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 144,
+                "end": 146
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 147,
+                "end": 149
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 150,
+                "end": 152
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 152,
+                "end": 153
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 154,
+                "end": 156
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 156,
+                "end": 157
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 158,
+                "end": 160
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "RC"
+              },
+              "span": {
+                "start": 161,
+                "end": 163
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 164,
+                "end": 166
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 167,
+                "end": 170
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 171,
+                "end": 173
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Derogating from certain provisions of Regulations (eec) no 2700/93 and (ec) no 2342/1999 as regards the application of the premium schemes in the sheepmeat and goatmeat and beef and veal sectors",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 38,
+            "end": 88
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 38,
+                "end": 49
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 50,
+                "end": 66
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              },
+              "span": {
+                "start": 67,
+                "end": 70
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 71,
+                "end": 88
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Implementing council regulation (ec, euratom) no 58/97 with regard to the series of data to be produced for structural business statistics",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 21,
+            "end": 54
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "REG"
+              },
+              "span": {
+                "start": 21,
+                "end": 31
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EURCOO"
+              },
+              "span": {
+                "start": 32,
+                "end": 54
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Seventh Commission Directive 76/372/EEC establishing Community methods of analysis for the official control of feedingstuffs",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 19,
+            "end": 39
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 19,
+                "end": 28
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 29,
+                "end": 39
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "In Article 5 of Directive 85/611/EEC, paragraph 4 shall be replaced by the following:",
+      "language": "EN",
+      "hoods": [
+        {
+          "span": {
+            "start": 3,
+            "end": 49
+          },
+          "children": [
+            {
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              },
+              "span": {
+                "start": 3,
+                "end": 10
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 11,
+                "end": 12
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "SPCLPR"
+              },
+              "span": {
+                "start": 13,
+                "end": 15
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "DIR"
+              },
+              "span": {
+                "start": 16,
+                "end": 25
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "EULCOO"
+              },
+              "span": {
+                "start": 26,
+                "end": 36
+              }
+            },
+            {
+              "tag": {
+                "group": "connector",
+                "value": "COM"
+              },
+              "span": {
+                "start": 36,
+                "end": 37
+              }
+            },
+            {
+              "tag": {
+                "group": "axis",
+                "value": "PG"
+              },
+              "span": {
+                "start": 38,
+                "end": 47
+              }
+            },
+            {
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              },
+              "span": {
+                "start": 48,
+                "end": 49
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Having regard to the Treaty establishing the European Economic Community, and in particular Articles 54 and 82 thereof",
+      "language": "EN",
+      "hoods": [
+        {
+          "children": [
+            {
+              "span": {
+                "end": 72,
+                "start": 21
+              },
+              "tag": {
+                "group": "named_entity",
+                "value": "PND_TITLE"
+              }
+            },
+            {
+              "span": {
+                "end": 91,
+                "start": 72
+              },
+              "tag": {
+                "group": "connector",
+                "value": "SPECIFIX"
+              }
+            },
+            {
+              "span": {
+                "end": 100,
+                "start": 92
+              },
+              "tag": {
+                "group": "axis",
+                "value": "ART"
+              }
+            },
+            {
+              "span": {
+                "end": 103,
+                "start": 101
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 107,
+                "start": 104
+              },
+              "tag": {
+                "group": "connector",
+                "value": "AND"
+              }
+            },
+            {
+              "span": {
+                "end": 110,
+                "start": 108
+              },
+              "tag": {
+                "group": "value",
+                "value": "NM"
+              }
+            },
+            {
+              "span": {
+                "end": 118,
+                "start": 111
+              },
+              "tag": {
+                "group": "connector",
+                "value": "THEREOF"
+              }
+            }
+          ],
+          "span": {
+            "end": 118,
+            "start": 21
+          }
+        }
+      ]
+    }
+  ]
+}

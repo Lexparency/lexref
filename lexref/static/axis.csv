@@ -1,0 +1,23 @@
+tag,level,role,description
+ART,30,leaf,
+PRT,21,container,
+TIT,22,container,
+CHP,23,container,
+SEC,24,container,
+SUB,25,container,
+PAR,35,paragraph,
+PHR,36,phrase,
+LTR,37,paragraph,
+NUM,36,paragraph,
+DIGIT,38,paragraph,
+SUBPAR,37,paragraph
+ANX,20,annex,
+DIR,10,document,Directive
+REG,10,document,Regulation
+DEC,10,document,Decision
+FDC,10,document,Framework Decision
+TRT,09,document,Treaty
+REC,11,paragraph,
+PRE,11,leaf,
+PT,37,paragraph,
+PG,36,paragraph,

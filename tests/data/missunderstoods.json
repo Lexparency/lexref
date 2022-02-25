@@ -1,0 +1,43 @@
+{
+  "DE": [
+    {
+      "input": "genannte Nebendienstleistung zu erbringen, die lediglich eine oder mehrere der in Anhang I Abschnitt A Nummern 1, 2, 4 und 5 jener Richtlinie genannten Wertpapierdienstleistungen zu erbringen;",
+      "explanation": "Some problems after implementing new handlers, in order cope with spanish."
+    }
+  ],
+  "EN": [
+    {
+      "input": "Investment firms, as defined in Article 4(1)(1) of Directive 2004/39/EC, authorised to carry out only the services provided for in Section A(4) and (5) of the Annex to that Directive, may obtain authorisation under this Directive to manage UCITS as management companies. In that case, such investment firms shall give up the authorisation obtained under Directive 2004/39/EC.",
+      "explanation": "Does not consider the annex to have a substructure."
+    },
+    {
+      "input": "The Commission should monitor the functioning of decisions on the level of protection in a third country, a territory or specified sector within a third country, or an international organisation, and monitor the functioning of decisions adopted on the basis of Article 25(6) or Article 26(4) of Directive 95/46/EC. In its adequacy decisions, the Commission should provide for a periodic review mechanism of their functioning. That periodic review should be conducted in consultation with the third country or international organisation in question and take into account all relevant developments in the third country or international organisation. For the purposes of monitoring and of carrying out the periodic reviews, the Commission should take into consideration the views and findings of the European Parliament and of the Council as well as of other relevant bodies and sources. The Commission should evaluate, within a reasonable time, the functioning of the latter decisions and report any relevant findings to the Committee within the meaning of Regulation (EU) No 182/2011 of the European Parliament and of the Council (12) as established under this Regulation, to the European Parliament and to the Council.",
+      "explanation": "forgot what's the problem"
+    },
+    {
+      "input": "European Parliament and Council Directive 97/52/EC of 13 October 1997 amending Directives 92/50/EEC, 93/36/EEC and 93/37/EEC concerning the coordination of procedures for the award of public service contracts, public supply contracts and public works contracts respectively",
+      "explanation": "forgot what's the problem"
+    },
+    {
+      "input": "Commission Directive 2001/78/EC of 13 September 2001 amending Annex IV to Council Directive 93/36/EEC, Annexes IV, V and VI to Council Directive 93/37/EEC, Annexes III and IV to Council Directive 92/50/EEC, as amended by Directive 97/52/EC, and Annexes XII to XV, XVII and XVIII to Council Directive 93/38/EEC, as amended by Directive 98/4/EC (Directive on the use of standard forms in the publication of public contract notices) (Text with EEA relevance)",
+      "explanation": "forgot what's the problem"
+    },
+    {
+      "input": "Article 1(1), the first subparagraph of Article 1(2), Article 1(3)(a), Article 1(4) to (7), points (a) to (d), (f) to (l), (n) and (o) of Article 2(1), Article 2(2), (3) and (4), Article 2(6) and (7), Article 3, Article 5(5), Article 6(2), (3) and (4), Articles 7 to 11, Article 12(2), Article 13(1)(b) to (h), Article 13(2), Article 14(1), Article 16(2), points (a), (c) and (d) of Article 17(2), the second subparagraph of Article 17(3), Article 17(8), the first subparagraph of Article 17(9), Article 18(1) except the introductory phrase and point (a), the first and second subparagraphs of Article 18(2), Article 21(1)and (7), Article 22(2), Article 22(3)(b) and (c), Article 23(3), Article 24, Articles 25 and 26, the first and second paragraphs of Article 27, Article 28, Article 29(1), (3), and (4), Articles 30, 31 and 32, Article 33(1) and (3), Articles 34, 35 and 36, Article 50(1)(a) to (h), Article 50(2), the first and second subparagraphs of Article 51(1), Article 51(2) and (3), Articles 52 and 53, Article 54(1) and (2), Article 55, the first subparagraph of Article 56(2), the second subparagraph of Article 56(2), Article 56(3), Article 57, Article 68(2), Article 69(3) and (4), Article 70(1) and (4), Articles 73 and 76, Article 83(1) except point (b), Article 83(2)(a) except the second indent, Articles 84, 85 and 87, Article 88(1) except point (b), Article 88(2), Article 89 except point (b), Article 102(1), the first subparagraph of Article 102(2), Article 102(3) and (4), Articles 103 to 106, Article 109(1), Articles 111, 112, 113, and 117 and Annexes II, III and IV shall apply from 1 July 2011.",
+      "explanation": "1: The snippets that end with 'except point (b)' refer to the wrong point. 2: The snippet 'Article 29(1), (3), and (4)' misses the last point for some reason."
+    },
+    {
+      "input": "Section B ... ",
+      "explanation": "if the current container context is 'ANX'."
+    },
+	{
+	  "input": "Article 1(2), first and second indent ",
+	  "explanation": "Not recognizing at all"
+	},
+    {
+      "input": "In accordance with Article 8(2), a Member State adopts more stringent consumer protection provisions.",
+      "explanation": "Fails at 'coordinate_connector_value' within coordination. The core problem is that, a priori, it thinks that the letter 'a' is a coordinate value."
+    }
+  ],
+  "ES": []
+}

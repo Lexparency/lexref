@@ -1,0 +1,955 @@
+{
+  "DE": [
+    {
+      "input": "Die Vergabekammer hat dem Antragsgegner aufgegeben, bei der geplanten Direktvergabe die Anforderungen des Art. 5 Abs. 2 Satz 1 und 2 Buchst. e VO 1370/2007 sicherzustellen."
+    },
+    {
+      "input": "Für die Zwecke des Teils 3 Titel II bezeichnet der Ausdruck",
+      "references": [
+        {
+          "span": {"start": 19, "end":  35},
+          "target": "PRT_3:TIT_II"
+        }
+      ]
+    },
+    {
+      "input": "zur Berichtigung der Durchführungsverordnung (EU) 2017/1145 über die Marktrücknahme bestimmter gemäß den Richtlinien 70/524/EWG und 82/471/EWG des Rates zugelassener Futtermittelzusatzstoffe",
+      "references": [
+        {
+          "span": {"start": 21, "end": 59},
+          "target": "DID_32017R1145"
+        },
+        {
+          "span": {"start":  117, "end":  127},
+          "target": "DID_31970L0524"
+        },
+        {
+          "span": {"start": 132, "end": 142},
+          "target": "DID_31982L0471"
+        }
+      ]
+    },
+    {
+      "input": "Bis der Bericht der Kommission nach Artikel 508 Absatz 3 vorliegt, ...",
+      "references": [
+        {
+          "span": {"end": 56, "start": 36},
+          "target": "ART_508:3"
+        }
+      ]
+    },
+    {
+      "input": "Ausnahmen gemäß Artikel 7 Absätze 1 oder 3 gewährt haben",
+      "references": []
+    },
+    {
+      "input": "Ausnahme von Wertpapierfirmen im Sinne der Artikel 95 Absatz 1 und 96 Absatz 1 und Instituten",
+      "references": []
+    },
+    {
+      "input": "für die Erbringung der in Anhang I Abschnitt A Nummern 3 und 6 der Richtlinie 2004/39/EG genannten Wertpapierdienstleistungen und Anlagetätigkeiten",
+      "references": []
+    },
+    {
+      "input": "Institute halten die in den Teilen 2 bis 5 und 8 festgelegten Anforderungen auf Einzelbasis ein.",
+      "references": []
+    },
+    {
+      "input": "Anwendung des Artikels 86 der Richtlinie 2013/36/EU oder Teilen davon absehen.",
+      "references": []
+    },
+    {
+      "input": "Sicherungssystems im Sinne des Artikels 113 Absatz 7 sind",
+      "references": []
+    },
+    {
+      "input": "Die zuständigen Behörden können vorbehaltlich der Absätze 2 und 3 und des Artikels 144 Absatz 3 der Richtlinie 2013/36/EU Mutterinstituten auf Einzelfallbasis gestatten",
+      "references": []
+    },
+    {
+      "input": "Anforderungen gemäß den Teilen 2 bis 8 ausnehmen, vorausgesetzt dass",
+      "references": []
+    },
+    {
+      "input": "Erbringung der in Anhang I Abschnitt A Nummern 3 und 6 der Richtlinie 2004/39/EG genannten Wertpapierdienstleistungen",
+      "references": []
+    },
+    {
+      "input": "legen die Informationen nach den Artikeln 437, 438, 440, 442, 450, 451 und 453 auf Einzelbasis oder auf teilkonsolidierter Basis offen.",
+      "references": []
+    },
+    {
+      "input": "Anwendung des Teils 3 und des Titels VII Kapitel 4 der Richtlinie 2013/36/EU auf konsolidierter Basis absehen.",
+      "references": []
+    },
+    {
+      "input": "Instrumenten im Sinne der Artikel 36 Absatz 1 Buchstaben h und i, Artikel 56 Buchstaben c und d sowie Artikel 66 Buchstaben c und d an, gegen bzw. in Bezug auf Wertpapierfirmen",
+      "references": []
+    },
+    {
+      "input": "Beziehung im Sinne des Artikels 12 Absatz 1 der Richtlinie 83/349/EWG verbunden,",
+      "references": []
+    },
+    {
+      "input": "Wenn in den Fällen nach Absatz 1 und Absatz 2 Buchstabe b mehrere Unternehmen die dort genannten Kriterien erfüllen.",
+      "references": []
+    },
+    {
+      "input": "Instrumente wurden von der Kommission gemäß Artikel 107 AEUV als mit dem Binnenmarkt vereinbar angesehen.",
+      "references": []
+    }
+  ],
+  "EN": [
+    {
+      "input": "As is described in points (a), (b), and (e) of Article 4(1) of Regulation (EU) No 575/2013 but not elsewhere",
+      "references": [
+        {
+          "span": {
+            "start": 26,
+            "end": 29
+          },
+          "target": "DID_32013R0575:ART_4:1:a"
+        },
+        {
+          "span": {
+            "start": 31,
+            "end": 34
+          },
+          "target": "DID_32013R0575:ART_4:1:b"
+        },
+        {
+          "span": {
+            "start": 40,
+            "end": 43
+          },
+          "target": "DID_32013R0575:ART_4:1:e"
+        }
+      ]
+    },
+    {
+      "input": "This is referred to in Article 153(1)(ii), Article 154(1)(i) and Article 181(1) (h) of Regulation (EU) No 575/2013.",
+      "references": [
+        {
+          "span": {
+            "start": 23,
+            "end": 41
+          },
+          "target": "DID_32013R0575:ART_153:1:ii"
+        },
+        {
+          "span": {
+            "start": 43,
+            "end": 60
+          },
+          "target": "DID_32013R0575:ART_154:1:i"
+        },
+        {
+          "span": {
+            "start": 65,
+            "end": 83
+          },
+          "target": "DID_32013R0575:ART_181:1:h"
+        }
+      ]
+    },
+    {
+      "input": "For additional risk weight in accordance with Article 407, 8 % of the total risk weight shall be applied. Except for securitisation positions treated in accordance with Article 338(4), the institution from the application of this Article in order to calculate its own funds requirement against specific risk.",
+      "references": [
+        {
+          "span": {
+            "start": 46,
+            "end": 57
+          },
+          "target": "ART_407"
+        },
+        {
+          "span": {
+            "start": 169,
+            "end": 183
+          },
+          "target": "ART_338:4"
+        }
+      ]
+    },
+    {
+      "input": "As is described in point (1) of Article 4(1) of Regulation (EU) No 575/2013",
+      "references": [
+        {
+          "span": {
+            "start": 19,
+            "end": 75
+          },
+          "target": "DID_32013R0575:ART_4:1:1"
+        }
+      ]
+    },
+    {
+      "input": "As is described in Articles 143(1), 151(4) and (9) of Regulation (EU) No 575/2013, 8 % are used",
+      "references": [
+        {
+          "span": {
+            "start": 28,
+            "end": 34
+          },
+          "target": "DID_32013R0575:ART_143:1"
+        },
+        {
+          "span": {
+            "start": 39,
+            "end": 42
+          },
+          "target": "DID_32013R0575:ART_151:4"
+        },
+        {
+          "span": {
+            "start": 47,
+            "end": 50
+          },
+          "target": "DID_32013R0575:ART_151:9"
+        }
+      ]
+    },
+    {
+      "input": "referred to in Article 20(1) (a) of Regulation (EU) No 575/2013, the technical standards referred to in paragraph (8) of that Article",
+      "references": [
+        {
+          "span": {
+            "start": 25,
+            "end": 32
+          },
+          "target": "DID_32013R0575:ART_20:1:a"
+        },
+        {
+          "span": {
+            "start": 104,
+            "end": 117
+          },
+          "target": "DID_32013R0575:ART_20:(8)"
+        }
+      ]
+    },
+    {
+      "input": "The requirements of Articles 50(1), 51 and 52 of Regulation (EU) No 575/2013 ...",
+      "references": [
+        {
+          "span": {
+            "start": 29,
+            "end": 34
+          },
+          "target": "DID_32013R0575:ART_50:1"
+        },
+        {
+          "span": {
+            "start": 36,
+            "end": 38
+          },
+          "target": "DID_32013R0575:ART_51"
+        },
+        {
+          "span": {
+            "start": 43,
+            "end": 45
+          },
+          "target": "DID_32013R0575:ART_52"
+        }
+      ]
+    },
+    {
+      "input": "The deductions referred to in points (a) to (g), points (k)(ii) to (v) and point (l) of Article 36(1) are important.",
+      "references": [
+        {
+          "span": {
+            "start": 37,
+            "end": 40
+          },
+          "target": "ART_36:1:a"
+        },
+        {
+          "span": {
+            "start": 44,
+            "end": 47
+          },
+          "target": "ART_36:1:g"
+        },
+        {
+          "span": {
+            "start": 59,
+            "end": 63
+          },
+          "target": "ART_36:1:k:ii"
+        },
+        {
+          "span": {
+            "start": 67,
+            "end": 70
+          },
+          "target": "ART_36:1:k:v"
+        },
+        {
+          "span": {
+            "start": 75,
+            "end": 84
+          },
+          "target": "ART_36:1:l"
+        }
+      ]
+    },
+    {
+      "input": "Consistent with those set out in Chapter 4, Section 3 of Regulation (EU) No 575/2013, as referred to in Article 181(1) (f) of that Regulation.",
+      "references": [
+        {
+          "span": {
+            "start": 33,
+            "end": 53
+          },
+          "target": "DID_32013R0575:CHP_4:SEC_3"
+        },
+        {
+          "span": {
+            "start": 104,
+            "end": 122
+          },
+          "target": "DID_32013R0575:ART_181:1:f"
+        }
+      ]
+    },
+    {
+      "input": "Rating systems in accordance with Articles 143(1), 151(4) and (9) of Regulation (EU) No 575/2013, but also applies to them.",
+      "references": [
+        {
+          "span": {
+            "start": 43,
+            "end": 49
+          },
+          "target": "DID_32013R0575:ART_143:1"
+        },
+        {
+          "span": {
+            "start": 54,
+            "end": 57
+          },
+          "target": "DID_32013R0575:ART_151:4"
+        },
+        {
+          "span": {
+            "start": 62,
+            "end": 65
+          },
+          "target": "DID_32013R0575:ART_151:9"
+        }
+      ]
+    },
+    {
+      "input": "referred to in Article 147(2)(e) and (f) and Article 147(8) of Regulation (EU) No 575/2013",
+      "references": [
+        {
+          "span": {
+            "start": 29,
+            "end": 32
+          },
+          "target": "DID_32013R0575:ART_147:2:e"
+        },
+        {
+          "span": {
+            "start": 37,
+            "end": 40
+          },
+          "target": "DID_32013R0575:ART_147:2:f"
+        },
+        {
+          "span": {
+            "start": 45,
+            "end": 59
+          },
+          "target": "DID_32013R0575:ART_147:8"
+        }
+      ]
+    },
+    {
+      "input": "... ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which ...",
+      "references": [
+        {
+          "span": {
+            "start": 63,
+            "end": 94
+          },
+          "target": "DID_32004L0039:ANX_I"
+        }
+      ]
+    },
+    {
+      "input": "Transactions listed in Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013 shall calculate in accordance with Article 223 of that Regulation with supervisory volatility adjustments, specified in Articles 223 and 224 of that Regulation. The exception set out in point (a) of Article 285(3) of that Regulation, shall not apply",
+      "references": [
+        {
+          "span": {
+            "start": 37,
+            "end": 40
+          },
+          "target": "DID_32013R0575:ART_301:1:b"
+        },
+        {
+          "span": {
+            "start": 42,
+            "end": 45
+          },
+          "target": "DID_32013R0575:ART_301:1:c"
+        },
+        {
+          "span": {
+            "start": 50,
+            "end": 53
+          },
+          "target": "DID_32013R0575:ART_301:1:e"
+        },
+        {
+          "span": {
+            "start": 120,
+            "end": 131
+          },
+          "target": "DID_32013R0575:ART_223"
+        },
+        {
+          "span": {
+            "start": 214,
+            "end": 217
+          },
+          "target": "DID_32013R0575:ART_223"
+        },
+        {
+          "span": {
+            "start": 222,
+            "end": 225
+          },
+          "target": "DID_32013R0575:ART_224"
+        },
+        {
+          "span": {
+            "start": 271,
+            "end": 298
+          },
+          "target": "DID_32013R0575:ART_285:3:a"
+        }
+      ]
+    },
+    {
+      "input": "For the purposes of point (4)(b) of paragraph 1 of this Article, the Commission may adopt, by way of implementing acts, and subject to the examination procedure referred to in Article 464(2), a decision as to me. In the absence set out in this paragraph to a third authority.",
+      "references": [
+        {
+          "span": {
+            "start": 20,
+            "end": 47
+          },
+          "target": "1:4:b"
+        },
+        {
+          "span": {
+            "start": 176,
+            "end": 190
+          },
+          "target": "ART_464:2"
+        }
+      ]
+    },
+    {
+      "input": "\"management body\" means management body as defined in point (7) of Article 3(1) of Directive 2013/36/EU",
+      "references": [
+        {
+          "span": {
+            "start": 54,
+            "end": 103
+          },
+          "target": "DID_32013L0036:ART_3:1:7"
+        }
+      ]
+    },
+    {
+      "input": "Regulation (EU) No 1093/2010 requires EBA to abstract within the scope of Directives 2006/48/EC and 2006/49/EC. EBA is also required to abstract in the field..",
+      "references": [
+        {
+          "span": {
+            "start": 0,
+            "end": 28
+          },
+          "target": "DID_32010R1093"
+        },
+        {
+          "span": {
+            "start": 85,
+            "end": 95
+          },
+          "target": "DID_32006L0048"
+        },
+        {
+          "span": {
+            "start": 100,
+            "end": 110
+          },
+          "target": "DID_32006L0049"
+        }
+      ]
+    },
+    {
+      "input": "Institutions, except for investment firms referred to in Article 95(1) and Article 96(1) and institutions for which competent authorities have exercised the derogation specified in Article 7(1) or (3), shall comply with the obligations laid down in Part Seven on an individual basis.",
+      "references": [
+        {
+          "span": {
+            "start": 57,
+            "end": 70
+          },
+          "target": "ART_95:1"
+        },
+        {
+          "span": {
+            "start": 75,
+            "end": 88
+          },
+          "target": "ART_96:1"
+        },
+        {
+          "span": {
+            "start": 190,
+            "end": 193
+          },
+          "target": "ART_7:1"
+        },
+        {
+          "span": {
+            "start": 197,
+            "end": 200
+          },
+          "target": "ART_7:3"
+        },
+        {
+          "span": {
+            "start": 249,
+            "end": 259
+          },
+          "target": "PRT_7"
+        }
+      ]
+    },
+    {
+      "input": "\"financial undertaking\" has the same meaning as under points (25)(b) and (d) of Article 13 of Directive 2009/138/EC;",
+      "references": [
+        {
+          "span": {
+            "start": 65,
+            "end": 68
+          },
+          "target": "DID_32009L0138:ART_13:25:b"
+        },
+        {
+          "span": {
+            "start": 73,
+            "end": 76
+          },
+          "target": "DID_32009L0138:ART_13:25:d"
+        }
+      ]
+    },
+    {
+      "input": "For greater accessibility, the provisions of the Annexes to Directives 2006/48/EC and 2006/49/EC should be integrated into the enacting terms of Directive 2013/36/EU and this Regulation.",
+      "references": [
+        {
+          "span": {
+            "start": 71,
+            "end": 81
+          },
+          "target": "DID_32006L0048:ANX"
+        },
+        {
+          "span": {
+            "start": 86,
+            "end": 96
+          },
+          "target": "DID_32006L0049:ANX"
+        },
+        {
+          "span": {
+            "start": 145,
+            "end": 165
+          },
+          "target": "DID_32013L0036"
+        }
+      ]
+    },
+    {
+      "input": "a justification of why Articles 124 and 164 of this Regulation and Articles 101, 103, 104, 105, 133, and 136 of Directive 2013/36/EU cannot adequately address the macroprudential or systemic risk identified, taking into account the relative effectiveness of those measures;",
+      "references": [
+        {
+          "span": {
+            "start": 32,
+            "end": 35
+          },
+          "target": "ART_124"
+        },
+        {
+          "span": {
+            "start": 40,
+            "end": 43
+          },
+          "target": "ART_164"
+        },
+        {
+          "span": {
+            "start": 76,
+            "end": 79
+          },
+          "target": "DID_32013L0036:ART_101"
+        },
+        {
+          "span": {
+            "start": 81,
+            "end": 84
+          },
+          "target": "DID_32013L0036:ART_103"
+        },
+        {
+          "span": {
+            "start": 86,
+            "end": 89
+          },
+          "target": "DID_32013L0036:ART_104"
+        },
+        {
+          "span": {
+            "start": 91,
+            "end": 94
+          },
+          "target": "DID_32013L0036:ART_105"
+        },
+        {
+          "span": {
+            "start": 96,
+            "end": 99
+          },
+          "target": "DID_32013L0036:ART_133"
+        },
+        {
+          "span": {
+            "start": 105,
+            "end": 108
+          },
+          "target": "DID_32013L0036:ART_136"
+        }
+      ]
+    },
+    {
+      "input": "whether the leverage ratio framework provided by this Regulation and Articles 87 and 98 of Directive 2013/36/EU is the appropriate tool to suppress the risk of excessive leverage on the part of the institutions in a satisfactory manner and degree;",
+      "references": [
+        {
+          "span": {
+            "start": 78,
+            "end": 80
+          },
+          "target": "DID_32013L0036:ART_87"
+        },
+        {
+          "span": {
+            "start": 85,
+            "end": 87
+          },
+          "target": "DID_32013L0036:ART_98"
+        }
+      ]
+    },
+    {
+      "input": "For securitisation positions that are subject to an additional risk weight in accordance with Article 407, 8 % of the total risk. Except for securitisation accordance with Article 338(4), the institution from the application of this Article in order to calculate.",
+      "references": [
+        {
+          "span": {
+            "start": 94,
+            "end": 105
+          },
+          "target": "ART_407"
+        },
+        {
+          "span": {
+            "start": 172,
+            "end": 186
+          },
+          "target": "ART_338:4"
+        }
+      ]
+    },
+    {
+      "input": "Subject to Articles 356 to 358, institutions shall calculate the own funds requirement for commodities risk with one of the methods set out in Article 359, 360 or 361",
+      "references": [
+        {
+          "span": {
+            "start": 20,
+            "end": 23
+          },
+          "target": "ART_356"
+        },
+        {
+          "span": {
+            "start": 27,
+            "end": 30
+          },
+          "target": "ART_358"
+        },
+        {
+          "span": {
+            "start": 151,
+            "end": 154
+          },
+          "target": "ART_359"
+        },
+        {
+          "span": {
+            "start": 156,
+            "end": 159
+          },
+          "target": "ART_360"
+        },
+        {
+          "span": {
+            "start": 163,
+            "end": 166
+          },
+          "target": "ART_361"
+        }
+      ]
+    },
+    {
+      "input": "within their territories, in accordance with Articles 25, 26(1) to (3), 28(1) and (2) and 29 to 37 either by the establishment of a branch or by way of the provision of services,",
+      "references": [
+        {
+          "span": {
+            "start": 54,
+            "end": 56
+          },
+          "target": "ART_25"
+        },
+        {
+          "span": {
+            "start": 60,
+            "end": 63
+          },
+          "target": "ART_26:1"
+        },
+        {
+          "span": {
+            "start": 67,
+            "end": 70
+          },
+          "target": "ART_26:3"
+        },
+        {
+          "span": {
+            "start": 74,
+            "end": 77
+          },
+          "target": "ART_28:1"
+        },
+        {
+          "span": {
+            "start": 82,
+            "end": 85
+          },
+          "target": "ART_28:2"
+        },
+        {
+          "span": {
+            "start": 90,
+            "end": 92
+          },
+          "target": "ART_29"
+        },
+        {
+          "span": {
+            "start": 96,
+            "end": 98
+          },
+          "target": "ART_37"
+        }
+      ]
+    },
+    {
+      "input": "accordance with Title V, Chapter 4, Section 1, in particular for the purposes of the minimum own funds requirements set out in Article 75 for the control of large exposures and for purposes of the limitation of holdings provided for in Articles 120 to 122.",
+      "references": [
+        {
+          "span": {
+            "start": 16,
+            "end": 45
+          },
+          "target": "TIT_V:CHP_4:SEC_1"
+        },
+        {
+          "span": {
+            "start": 127,
+            "end": 137
+          },
+          "target": "ART_75"
+        },
+        {
+          "span": {
+            "start": 245,
+            "end": 248
+          },
+          "target": "ART_120"
+        },
+        {
+          "span": {
+            "start": 252,
+            "end": 255
+          },
+          "target": "ART_122"
+        }
+      ]
+    },
+    {
+      "input": "The competent authorities of the home Member State shall ensure the supervision of the financial institution in accordance with Articles 10(1), 19 to 22, 40, 42 to 52 and 54.",
+      "references": [
+        {
+          "span": {
+            "start": 137,
+            "end": 142
+          },
+          "target": "ART_10:1"
+        },
+        {
+          "span": {
+            "start": 144,
+            "end": 146
+          },
+          "target": "ART_19"
+        },
+        {
+          "span": {
+            "start": 150,
+            "end": 152
+          },
+          "target": "ART_22"
+        },
+        {
+          "span": {
+            "start": 154,
+            "end": 156
+          },
+          "target": "ART_40"
+        },
+        {
+          "span": {
+            "start": 158,
+            "end": 160
+          },
+          "target": "ART_42"
+        },
+        {
+          "span": {
+            "start": 164,
+            "end": 166
+          },
+          "target": "ART_52"
+        },
+        {
+          "span": {
+            "start": 171,
+            "end": 173
+          },
+          "target": "ART_54"
+        }
+      ]
+    },
+    {
+      "input": "Derogating from certain provisions of Regulations (eec) no 2700/93 and (ec) no 2342/1999 as regards the application of the premium schemes in the sheepmeat and goatmeat and beef and veal sectors",
+      "references": [
+        {
+          "span": {
+            "start": 50,
+            "end": 66
+          },
+          "target": "DID_31993R2700"
+        },
+        {
+          "span": {
+            "start": 71,
+            "end": 88
+          },
+          "target": "DID_31999R2342"
+        }
+      ]
+    },
+    {
+      "input": "Implementing council regulation (ec, euratom) no 58/97 with regard to the series of data to be produced for structural business statistics",
+      "references": [
+        {
+          "span": {
+            "start": 21,
+            "end": 54
+          },
+          "target": "DID_31997R0058"
+        }
+      ]
+    },
+    {
+      "input": "Seventh Commission Directive 76/372/EEC establishing Community methods of analysis for the official control of feedingstuffs",
+      "references": [
+        {
+          "span": {
+            "start": 19,
+            "end": 39
+          },
+          "target": "DID_31976L0372"
+        }
+      ]
+    },
+    {
+      "input": "Having regard to the Treaty establishing the European Economic Community, and other issues",
+      "references": [
+        {
+          "span": {
+            "start": 21,
+            "end": 72
+          },
+          "target": "PND_TeEEC"
+        }
+      ]
+    },
+    {
+      "input": "Having regard to the Treaty establishing the European Economic Community, and in particular Articles 54 and 82 thereof",
+      "references": [
+        {
+          "span": {
+            "start": 101,
+            "end": 103
+          },
+          "target": "PND_TeEEC:ART_54"
+        },
+        {
+          "span": {
+            "start": 108,
+            "end": 110
+          },
+          "target": "PND_TeEEC:ART_82"
+        }
+      ]
+    },
+    {
+      "input": "In Part Two, Title I, the title of Chapter 6 is replaced by the following:",
+      "references": [
+        {
+          "span": {
+            "start": 3,
+            "end": 44
+          },
+          "target": "PRT_2:TIT_I:CHP_6:TTI"
+        }
+      ]
+    },
+    {
+      "input": "In Article 5 of Directive 85/611/EEC, paragraph 4 shall be replaced by the following:",
+      "references": [
+        {
+          "span": {
+            "start": 3,
+            "end": 49
+          },
+          "target": "DID_31985L0611:ART_5:4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,545 @@
+{
+  "DE": [
+    {
+      "input": "ERSTER TEIL",
+      "ref_groups": [
+        {
+          "text": "ERSTER TEIL",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PRT'), span=Span(start=7, end=11), text='TEIL', tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='SRNK'), span=Span(start=0, end=6), text='ERSTER', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Die Vergabekammer hat dem Antragsgegner aufgegeben, bei der geplanten Direktvergabe die Anforderungen des Art. 5 Abs. 2 Satz 1 und 2 Buchst. e VO 1370/2007 sicherzustellen.",
+      "ref_groups": [
+        {
+          "text": "Art. 5 Abs. 2 Satz 1 und 2 Buchst. e VO 1370/2007",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=143, end=145), text='VO', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=146, end=155), text='1370/2007', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=106, end=110), text='Art.', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=111, end=112), text='5', tail=' '))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=113, end=117), text='Abs.', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=118, end=119), text='2', tail=' '))\n        ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PHR'), span=Span(start=120, end=124), text='Satz', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=125, end=126), text='1', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PHR'), span=Span(start=120, end=124), text='Satz', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=131, end=132), text='2', tail=' '))\n            └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='LTR'), span=Span(start=133, end=140), text='Buchst.', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L'), span=Span(start=141, end=142), text='e', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Für die Zwecke des Teils 3 Titel II bezeichnet der Ausdruck",
+      "ref_groups": [
+        {
+          "text": "Teils 3 Titel II",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PRT'), span=Span(start=19, end=24), text='Teils', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=25, end=26), text='3', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='TIT'), span=Span(start=27, end=32), text='Titel', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='ROM_U'), span=Span(start=33, end=35), text='II', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "zur Berichtigung der Durchführungsverordnung (EU) 2017/1145 über die Marktrücknahme bestimmter gemäß den Richtlinien 70/524/EWG und 82/471/EWG des Rates zugelassener Futtermittelzusatzstoffe",
+      "ref_groups": [
+        {
+          "text": "Durchführungsverordnung (EU) 2017/1145",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=21, end=44), text='Durchführungsverordnung', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=45, end=59), text='(EU) 2017/1145', tail=None))"
+        },
+        {
+          "text": "Richtlinien 70/524/EWG und 82/471/EWG",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=105, end=116), text='Richtlinien', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=117, end=127), text='70/524/EWG', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=105, end=116), text='Richtlinien', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=132, end=142), text='82/471/EWG', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Bis der Bericht der Kommission nach Artikel 508 Absatz 3 vorliegt, ...",
+      "ref_groups": [
+        {
+          "text": "Artikel 508 Absatz 3",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=36, end=43), text='Artikel', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=44, end=47), text='508', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=48, end=54), text='Absatz', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=55, end=56), text='3', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Ausnahmen gemäß Artikel 7 Absätze 1 oder 3 gewährt haben",
+      "ref_groups": [
+        {
+          "text": "Artikel 7 Absätze 1 oder 3",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=16, end=23), text='Artikel', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=24, end=25), text='7', tail=' '))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=26, end=33), text='Absätze', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=34, end=35), text='1', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=26, end=33), text='Absätze', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=41, end=42), text='3', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Ausnahme von Wertpapierfirmen im Sinne der Artikel 95 Absatz 1 und 96 Absatz 1 und Instituten",
+      "ref_groups": [
+        {
+          "text": "Artikel 95 Absatz 1 und 96 Absatz 1",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=43, end=50), text='Artikel', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=51, end=53), text='95', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=54, end=60), text='Absatz', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=61, end=62), text='1', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=43, end=50), text='Artikel', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=67, end=69), text='96', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=70, end=76), text='Absatz', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=77, end=78), text='1', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "für die Erbringung der in Anhang I Abschnitt A Nummern 3 und 6 der Richtlinie 2004/39/EG genannten Wertpapierdienstleistungen und Anlagetätigkeiten",
+      "ref_groups": [
+        {
+          "text": "Anhang I Abschnitt A Nummern 3 und 6 der Richtlinie 2004/39/EG",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=67, end=77), text='Richtlinie', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=78, end=88), text='2004/39/EG', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ANX'), span=Span(start=26, end=32), text='Anhang', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AMBRA_U'), span=Span(start=33, end=34), text='I', tail=' '))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='SEC'), span=Span(start=35, end=44), text='Abschnitt', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_U'), span=Span(start=45, end=46), text='A', tail=' '))\n        ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='NUM'), span=Span(start=47, end=54), text='Nummern', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=55, end=56), text='3', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='NUM'), span=Span(start=47, end=54), text='Nummern', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=61, end=62), text='6', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Institute halten die in den Teilen 2 bis 5 und 8 festgelegten Anforderungen auf Einzelbasis ein.",
+      "ref_groups": [
+        {
+          "text": "Teilen 2 bis 5 und 8",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PRT'), span=Span(start=28, end=34), text='Teilen', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=35, end=36), text='2', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PRT'), span=Span(start=28, end=34), text='Teilen', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=41, end=42), text='5', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PRT'), span=Span(start=28, end=34), text='Teilen', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=47, end=48), text='8', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Anwendung des Artikels 86 der Richtlinie 2013/36/EU oder Teilen davon absehen.",
+      "ref_groups": [
+        {
+          "text": "Artikels 86 der Richtlinie 2013/36/EU",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=30, end=40), text='Richtlinie', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=41, end=51), text='2013/36/EU', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=14, end=22), text='Artikels', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=23, end=25), text='86', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Sicherungssystems im Sinne des Artikels 113 Absatz 7 sind",
+      "ref_groups": [
+        {
+          "text": "Artikels 113 Absatz 7",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=31, end=39), text='Artikels', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=40, end=43), text='113', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=44, end=50), text='Absatz', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=51, end=52), text='7', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Die zuständigen Behörden können vorbehaltlich der Absätze 2 und 3 und des Artikels 144 Absatz 3 der Richtlinie 2013/36/EU Mutterinstituten auf Einzelfallbasis gestatten",
+      "ref_groups": [
+        {
+          "text": "Absätze 2 und 3",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=50, end=57), text='Absätze', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=58, end=59), text='2', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=50, end=57), text='Absätze', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=64, end=65), text='3', tail=None))"
+        },
+        {
+          "text": "Artikels 144 Absatz 3 der Richtlinie 2013/36/EU",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=100, end=110), text='Richtlinie', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=111, end=121), text='2013/36/EU', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=74, end=82), text='Artikels', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=83, end=86), text='144', tail=' '))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=87, end=93), text='Absatz', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=94, end=95), text='3', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Anforderungen gemäß den Teilen 2 bis 8 ausnehmen, vorausgesetzt dass",
+      "ref_groups": [
+        {
+          "text": "Teilen 2 bis 8",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PRT'), span=Span(start=24, end=30), text='Teilen', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=31, end=32), text='2', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PRT'), span=Span(start=24, end=30), text='Teilen', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=37, end=38), text='8', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Erbringung der in Anhang I Abschnitt A Nummern 3 und 6 der Richtlinie 2004/39/EG genannten Wertpapierdienstleistungen",
+      "ref_groups": [
+        {
+          "text": "Anhang I Abschnitt A Nummern 3 und 6 der Richtlinie 2004/39/EG",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=59, end=69), text='Richtlinie', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=70, end=80), text='2004/39/EG', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ANX'), span=Span(start=18, end=24), text='Anhang', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AMBRA_U'), span=Span(start=25, end=26), text='I', tail=' '))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='SEC'), span=Span(start=27, end=36), text='Abschnitt', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_U'), span=Span(start=37, end=38), text='A', tail=' '))\n        ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='NUM'), span=Span(start=39, end=46), text='Nummern', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=47, end=48), text='3', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='NUM'), span=Span(start=39, end=46), text='Nummern', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=53, end=54), text='6', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "legen die Informationen nach den Artikeln 437, 438, 440, 442, 450, 451 und 453 auf Einzelbasis oder auf teilkonsolidierter Basis offen.",
+      "ref_groups": [
+        {
+          "text": "Artikeln 437, 438, 440, 442, 450, 451 und 453",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=33, end=41), text='Artikeln', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=42, end=45), text='437', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=33, end=41), text='Artikeln', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=47, end=50), text='438', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=33, end=41), text='Artikeln', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=52, end=55), text='440', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=33, end=41), text='Artikeln', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=57, end=60), text='442', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=33, end=41), text='Artikeln', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=62, end=65), text='450', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=33, end=41), text='Artikeln', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=67, end=70), text='451', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=33, end=41), text='Artikeln', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=75, end=78), text='453', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Anwendung des Teils 3 und des Titels VII Kapitel 4 der Richtlinie 2013/36/EU auf konsolidierter Basis absehen.",
+      "ref_groups": [
+        {
+          "text": "Teils 3",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PRT'), span=Span(start=14, end=19), text='Teils', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=20, end=21), text='3', tail=None))"
+        },
+        {
+          "text": "Titels VII Kapitel 4 der Richtlinie 2013/36/EU",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=55, end=65), text='Richtlinie', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=66, end=76), text='2013/36/EU', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='TIT'), span=Span(start=30, end=36), text='Titels', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='ROM_U'), span=Span(start=37, end=40), text='VII', tail=' '))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='CHP'), span=Span(start=41, end=48), text='Kapitel', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=49, end=50), text='4', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Instrumenten im Sinne der Artikel 36 Absatz 1 Buchstaben h und i, Artikel 56 Buchstaben c und d sowie Artikel 66 Buchstaben c und d an, gegen bzw. in Bezug auf Wertpapierfirmen",
+      "ref_groups": [
+        {
+          "text": "Artikel 36 Absatz 1 Buchstaben h und i, Artikel 56 Buchstaben c und d",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=26, end=33), text='Artikel', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=34, end=36), text='36', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=37, end=43), text='Absatz', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=44, end=45), text='1', tail=' '))\n    ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='LTR'), span=Span(start=46, end=56), text='Buchstaben', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L'), span=Span(start=57, end=58), text='h', tail=' '))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='LTR'), span=Span(start=46, end=56), text='Buchstaben', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AMBRA_L'), span=Span(start=63, end=64), text='i', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=66, end=73), text='Artikel', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=74, end=76), text='56', tail=' '))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='LTR'), span=Span(start=77, end=87), text='Buchstaben', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L'), span=Span(start=88, end=89), text='c', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='LTR'), span=Span(start=77, end=87), text='Buchstaben', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L'), span=Span(start=94, end=95), text='d', tail=None))"
+        },
+        {
+          "text": "Artikel 66 Buchstaben c und d",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=102, end=109), text='Artikel', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=110, end=112), text='66', tail=' '))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='LTR'), span=Span(start=113, end=123), text='Buchstaben', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L'), span=Span(start=124, end=125), text='c', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='LTR'), span=Span(start=113, end=123), text='Buchstaben', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L'), span=Span(start=130, end=131), text='d', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Beziehung im Sinne des Artikels 12 Absatz 1 der Richtlinie 83/349/EWG verbunden,",
+      "ref_groups": [
+        {
+          "text": "Artikels 12 Absatz 1 der Richtlinie 83/349/EWG",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=48, end=58), text='Richtlinie', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=59, end=69), text='83/349/EWG', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=23, end=31), text='Artikels', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=32, end=34), text='12', tail=' '))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=35, end=41), text='Absatz', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=42, end=43), text='1', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Wenn in den Fällen nach Absatz 1 und Absatz 2 Buchstabe b mehrere Unternehmen die dort genannten Kriterien erfüllen.",
+      "ref_groups": [
+        {
+          "text": "Absatz 1 und Absatz 2 Buchstabe b",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=24, end=30), text='Absatz', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=31, end=32), text='1', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PAR'), span=Span(start=37, end=43), text='Absatz', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=44, end=45), text='2', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='LTR'), span=Span(start=46, end=55), text='Buchstabe', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L'), span=Span(start=56, end=57), text='b', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Instrumente wurden von der Kommission gemäß Artikel 107 AEUV als mit dem Binnenmarkt vereinbar angesehen.",
+      "ref_groups": [
+        {
+          "text": "Artikel 107 AEUV",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='named_entity'), span=Span(start=56, end=56), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.named_entity, value='PND_ABBREV'), span=Span(start=56, end=60), text='AEUV', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=44, end=51), text='Artikel', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=52, end=55), text='107', tail=' '))"
+        }
+      ]
+    }
+  ],
+  "EN": [
+    {
+      "input": "As is described in points (a), (b), and (e) of Article 4(1) of Regulation (EU) No 575/2013 but not elsewhere",
+      "ref_groups": [
+        {
+          "text": "points (a), (b), and (e) of Article 4(1) of Regulation (EU) No 575/2013",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=63, end=73), text='Regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=74, end=90), text='(EU) No 575/2013', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=47, end=54), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=55, end=56), text='4', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=56, end=56), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=56, end=59), text='(1)', tail=' '))\n        ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=19, end=25), text='points', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=40, end=43), text='(e)', tail=' '))\n        ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=19, end=25), text='points', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=26, end=29), text='(a)', tail=''))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=19, end=25), text='points', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=31, end=34), text='(b)', tail=''))"
+        }
+      ]
+    },
+    {
+      "input": "This is referred to in Article 153(1)(ii), Article 154(1)(i) and Article 181(1) (h) of Regulation (EU) No 575/2013.",
+      "ref_groups": [
+        {
+          "text": "Article 153(1)(ii), Article 154(1)(i) and Article 181(1) (h) of Regulation (EU) No 575/2013",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=87, end=97), text='Regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=98, end=114), text='(EU) No 575/2013', tail=None))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=65, end=72), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=73, end=76), text='181', tail=''))\n│   └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=76, end=76), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=76, end=79), text='(1)', tail=' '))\n│       └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=80, end=80), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=80, end=83), text='(h)', tail=' '))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=43, end=50), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=51, end=54), text='154', tail=''))\n│   └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=54, end=54), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=54, end=57), text='(1)', tail=''))\n│       └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=57, end=57), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AMBRA_L_BB'), span=Span(start=57, end=60), text='(i)', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=23, end=30), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=31, end=34), text='153', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=34, end=34), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=34, end=37), text='(1)', tail=''))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=37, end=37), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='ROM_L_BB'), span=Span(start=37, end=41), text='(ii)', tail=''))"
+        }
+      ]
+    },
+    {
+      "input": "For additional risk weight in accordance with Article 407, 8 % of the total risk weight shall be applied. Except for securitisation positions treated in accordance with Article 338(4), the institution from the application of this Article in order to calculate its own funds requirement against specific risk.",
+      "ref_groups": [
+        {
+          "text": "Article 407",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=46, end=53), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=54, end=57), text='407', tail=''))"
+        },
+        {
+          "text": "Article 338(4)",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=169, end=176), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=177, end=180), text='338', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=180, end=180), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=180, end=183), text='(4)', tail=''))"
+        }
+      ]
+    },
+    {
+      "input": "As is described in point (1) of Article 4(1) of Regulation (EU) No 575/2013",
+      "ref_groups": [
+        {
+          "text": "point (1) of Article 4(1) of Regulation (EU) No 575/2013",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=48, end=58), text='Regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=59, end=75), text='(EU) No 575/2013', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=32, end=39), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=40, end=41), text='4', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=41, end=41), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=41, end=44), text='(1)', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=19, end=24), text='point', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=25, end=28), text='(1)', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "As is described in Articles 143(1), 151(4) and (9) of Regulation (EU) No 575/2013, 8 % are used",
+      "ref_groups": [
+        {
+          "text": "Articles 143(1), 151(4) and (9) of Regulation (EU) No 575/2013",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=54, end=64), text='Regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=65, end=81), text='(EU) No 575/2013', tail=''))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=19, end=27), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=36, end=39), text='151', tail=''))\n│   ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=39, end=39), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=39, end=42), text='(4)', tail=' '))\n│   └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=39, end=39), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=47, end=50), text='(9)', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=19, end=27), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=28, end=31), text='143', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=31, end=31), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=31, end=34), text='(1)', tail=''))"
+        }
+      ]
+    },
+    {
+      "input": "referred to in Article 20(1) (a) of Regulation (EU) No 575/2013, the technical standards referred to in paragraph (8) of that Article",
+      "ref_groups": [
+        {
+          "text": "Article 20(1) (a) of Regulation (EU) No 575/2013",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=36, end=46), text='Regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=47, end=63), text='(EU) No 575/2013', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=15, end=22), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=23, end=25), text='20', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=25, end=25), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=25, end=28), text='(1)', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=29, end=29), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=29, end=32), text='(a)', tail=' '))"
+        },
+        {
+          "text": "paragraph (8) of that Article",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=126, end=133), text='Article', tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='XPREVX'), span=Span(start=118, end=125), text='of that', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PG'), span=Span(start=104, end=113), text='paragraph', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=114, end=117), text='(8)', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "The requirements of Articles 50(1), 51 and 52 of Regulation (EU) No 575/2013 ...",
+      "ref_groups": [
+        {
+          "text": "Articles 50(1), 51 and 52 of Regulation (EU) No 575/2013",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=49, end=59), text='Regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=60, end=76), text='(EU) No 575/2013', tail=None))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=20, end=28), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=43, end=45), text='52', tail=' '))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=20, end=28), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=29, end=31), text='50', tail=''))\n│   └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=31, end=31), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=31, end=34), text='(1)', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=20, end=28), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=36, end=38), text='51', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "The deductions referred to in points (a) to (g), points (k)(ii) to (v) and point (l) of Article 36(1) are important.",
+      "ref_groups": [
+        {
+          "text": "points (a) to (g), points (k)(ii) to (v) and point (l) of Article 36(1)",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=88, end=95), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=96, end=98), text='36', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=98, end=98), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=98, end=101), text='(1)', tail=None))\n    ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=75, end=80), text='point', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=81, end=84), text='(l)', tail=' '))\n    ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=49, end=55), text='points', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=56, end=59), text='(k)', tail=''))\n    │   ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=59, end=59), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='ROM_L_BB'), span=Span(start=59, end=63), text='(ii)', tail=' '))\n    │   └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=59, end=59), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AMBRA_L_BB'), span=Span(start=67, end=70), text='(v)', tail=' '))\n    ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=30, end=36), text='points', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=44, end=47), text='(g)', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=30, end=36), text='points', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=37, end=40), text='(a)', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Consistent with those set out in Chapter 4, Section 3 of Regulation (EU) No 575/2013, as referred to in Article 181(1) (f) of that Regulation.",
+      "ref_groups": [
+        {
+          "text": "Chapter 4, Section 3 of Regulation (EU) No 575/2013",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=57, end=67), text='Regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=68, end=84), text='(EU) No 575/2013', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='CHP'), span=Span(start=33, end=40), text='Chapter', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=41, end=42), text='4', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='SEC'), span=Span(start=44, end=51), text='Section', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=52, end=53), text='3', tail=' '))"
+        },
+        {
+          "text": "Article 181(1) (f) of that Regulation",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=131, end=141), text='Regulation', tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='XPREVX'), span=Span(start=123, end=130), text='of that', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=104, end=111), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=112, end=115), text='181', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=115, end=115), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=115, end=118), text='(1)', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=119, end=119), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=119, end=122), text='(f)', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Rating systems in accordance with Articles 143(1), 151(4) and (9) of Regulation (EU) No 575/2013, but also applies to them.",
+      "ref_groups": [
+        {
+          "text": "Articles 143(1), 151(4) and (9) of Regulation (EU) No 575/2013",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=69, end=79), text='Regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=80, end=96), text='(EU) No 575/2013', tail=''))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=34, end=42), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=51, end=54), text='151', tail=''))\n│   ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=54, end=54), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=54, end=57), text='(4)', tail=' '))\n│   └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=54, end=54), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=62, end=65), text='(9)', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=34, end=42), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=43, end=46), text='143', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=46, end=46), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=46, end=49), text='(1)', tail=''))"
+        }
+      ]
+    },
+    {
+      "input": "referred to in Article 147(2)(e) and (f) and Article 147(8) of Regulation (EU) No 575/2013",
+      "ref_groups": [
+        {
+          "text": "Article 147(2)(e) and (f) and Article 147(8) of Regulation (EU) No 575/2013",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=63, end=73), text='Regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=74, end=90), text='(EU) No 575/2013', tail=None))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=45, end=52), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=53, end=56), text='147', tail=''))\n│   └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=56, end=56), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=56, end=59), text='(8)', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=15, end=22), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=23, end=26), text='147', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=26, end=26), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=26, end=29), text='(2)', tail=''))\n        ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=29, end=29), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=29, end=32), text='(e)', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=29, end=29), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=37, end=40), text='(f)', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "... ancillary service referred to in point (1) of Section B of Annex I to Directive 2004/39/EC, which ...",
+      "ref_groups": [
+        {
+          "text": "point (1) of Section B of Annex I to Directive 2004/39/EC",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=74, end=83), text='Directive', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=84, end=94), text='2004/39/EC', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ANX'), span=Span(start=63, end=68), text='Annex', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AMBRA_U'), span=Span(start=69, end=70), text='I', tail=' '))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='SEC'), span=Span(start=50, end=57), text='Section', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_U'), span=Span(start=58, end=59), text='B', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=37, end=42), text='point', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=43, end=46), text='(1)', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Transactions listed in Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013 shall calculate in accordance with Article 223 of that Regulation with supervisory volatility adjustments, specified in Articles 223 and 224 of that Regulation. The exception set out in point (a) of Article 285(3) of that Regulation, shall not apply",
+      "ref_groups": [
+        {
+          "text": "Article 301(1)(b), (c) and (e) of Regulation (EU) No 575/2013",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=57, end=67), text='Regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=68, end=84), text='(EU) No 575/2013', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=23, end=30), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=31, end=34), text='301', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=34, end=34), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=34, end=37), text='(1)', tail=''))\n        ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=37, end=37), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=37, end=40), text='(b)', tail=''))\n        ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=37, end=37), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=42, end=45), text='(c)', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=37, end=37), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=50, end=53), text='(e)', tail=' '))"
+        },
+        {
+          "text": "Article 223 of that Regulation",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=140, end=150), text='Regulation', tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='XPREVX'), span=Span(start=132, end=139), text='of that', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=120, end=127), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=128, end=131), text='223', tail=' '))"
+        },
+        {
+          "text": "Articles 223 and 224 of that Regulation",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=234, end=244), text='Regulation', tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='XPREVX'), span=Span(start=226, end=233), text='of that', tail=None))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=205, end=213), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=222, end=225), text='224', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=205, end=213), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=214, end=217), text='223', tail=' '))"
+        },
+        {
+          "text": "point (a) of Article 285(3) of that Regulation",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=307, end=317), text='Regulation', tail=''), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='XPREVX'), span=Span(start=299, end=306), text='of that', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=284, end=291), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=292, end=295), text='285', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=295, end=295), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=295, end=298), text='(3)', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=271, end=276), text='point', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=277, end=280), text='(a)', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "For the purposes of point (4)(b) of paragraph 1 of this Article, the Commission may adopt, by way of implementing acts, and subject to the examination procedure referred to in Article 464(2), a decision as to me. In the absence set out in this paragraph to a third authority.",
+      "ref_groups": [
+        {
+          "text": "point (4)(b) of paragraph 1",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PG'), span=Span(start=36, end=45), text='paragraph', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=46, end=47), text='1', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=20, end=25), text='point', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=26, end=29), text='(4)', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=29, end=29), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=29, end=32), text='(b)', tail=' '))"
+        },
+        {
+          "text": "Article 464(2)",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=176, end=183), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=184, end=187), text='464', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=187, end=187), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=187, end=190), text='(2)', tail=''))"
+        }
+      ]
+    },
+    {
+      "input": "\"management body\" means management body as defined in point (7) of Article 3(1) of Directive 2013/36/EU",
+      "ref_groups": [
+        {
+          "text": "point (7) of Article 3(1) of Directive 2013/36/EU",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=83, end=92), text='Directive', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=93, end=103), text='2013/36/EU', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=67, end=74), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=75, end=76), text='3', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=76, end=76), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=76, end=79), text='(1)', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=54, end=59), text='point', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=60, end=63), text='(7)', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "Regulation (EU) No 1093/2010 requires myEBA to abstract within the scope of Directives 2006/48/EC and 2006/49/EC. myEBA is also required to abstract in the field..",
+      "ref_groups": [
+        {
+          "text": "Regulation (EU) No 1093/2010",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=0, end=10), text='Regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=11, end=28), text='(EU) No 1093/2010', tail=None))"
+        },
+        {
+          "text": "Directives 2006/48/EC and 2006/49/EC",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=76, end=86), text='Directives', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=87, end=97), text='2006/48/EC', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=76, end=86), text='Directives', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=102, end=112), text='2006/49/EC', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Institutions, except for investment firms referred to in Article 95(1) and Article 96(1) and institutions for which competent authorities have exercised the derogation specified in Article 7(1) or (3), shall comply with the obligations laid down in Part Seven on an individual basis.",
+      "ref_groups": [
+        {
+          "text": "Article 95(1) and Article 96(1)",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=57, end=64), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=65, end=67), text='95', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=67, end=67), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=67, end=70), text='(1)', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=75, end=82), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=83, end=85), text='96', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=85, end=85), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=85, end=88), text='(1)', tail=' '))"
+        },
+        {
+          "text": "Article 7(1) or (3)",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=181, end=188), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=189, end=190), text='7', tail=''))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=190, end=190), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=190, end=193), text='(1)', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=190, end=190), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=197, end=200), text='(3)', tail=''))"
+        },
+        {
+          "text": "Part Seven",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PRT'), span=Span(start=249, end=253), text='Part', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='SPN'), span=Span(start=254, end=259), text='Seven', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "\"financial undertaking\" has the same meaning as under points (25)(b) and (d) of Article 13 of Directive 2009/138/EC;",
+      "ref_groups": [
+        {
+          "text": "points (25)(b) and (d) of Article 13 of Directive 2009/138/EC",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=94, end=103), text='Directive', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=104, end=115), text='2009/138/EC', tail=None))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=80, end=87), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=88, end=90), text='13', tail=' '))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PT'), span=Span(start=54, end=60), text='points', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=61, end=65), text='(25)', tail=''))\n        ├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=65, end=65), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=65, end=68), text='(b)', tail=' '))\n        └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=65, end=65), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AL_L_BB'), span=Span(start=73, end=76), text='(d)', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "For greater accessibility, the provisions of the Annexes to Directives 2006/48/EC and 2006/49/EC should be integrated into the enacting terms of Directive 2013/36/EU and this Regulation.",
+      "ref_groups": [
+        {
+          "text": "Annexes to Directives 2006/48/EC and 2006/49/EC",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=60, end=70), text='Directives', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=71, end=81), text='2006/48/EC', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ANX'), span=Span(start=49, end=56), text='Annexes', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='ANX'), span=Span(start=49, end=56), text='Annexes', tail=None))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=60, end=70), text='Directives', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=86, end=96), text='2006/49/EC', tail=None))"
+        },
+        {
+          "text": "Directive 2013/36/EU",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=145, end=154), text='Directive', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=155, end=165), text='2013/36/EU', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "a justification of why Articles 124 and 164 of this Regulation and Articles 101, 103, 104, 105, 133, and 136 of Directive 2013/36/EU cannot adequately address the macroprudential or systemic risk identified, taking into account the relative effectiveness of those measures;",
+      "ref_groups": [
+        {
+          "text": "Articles 124 and 164",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=23, end=31), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=32, end=35), text='124', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=23, end=31), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=40, end=43), text='164', tail=' '))"
+        },
+        {
+          "text": "Articles 101, 103, 104, 105, 133, and 136 of Directive 2013/36/EU",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=112, end=121), text='Directive', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=122, end=132), text='2013/36/EU', tail=None))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=67, end=75), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=105, end=108), text='136', tail=' '))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=67, end=75), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=76, end=79), text='101', tail=''))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=67, end=75), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=81, end=84), text='103', tail=''))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=67, end=75), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=86, end=89), text='104', tail=''))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=67, end=75), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=91, end=94), text='105', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=67, end=75), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=96, end=99), text='133', tail=''))"
+        }
+      ]
+    },
+    {
+      "input": "whether the leverage ratio framework provided by this Regulation and Articles 87 and 98 of Directive 2013/36/EU is the appropriate tool to suppress the risk of excessive leverage on the part of the institutions in a satisfactory manner and degree;",
+      "ref_groups": [
+        {
+          "text": "Articles 87 and 98 of Directive 2013/36/EU",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=91, end=100), text='Directive', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=101, end=111), text='2013/36/EU', tail=None))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=69, end=77), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=85, end=87), text='98', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=69, end=77), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=78, end=80), text='87', tail=' '))"
+        }
+      ]
+    },
+    {
+      "input": "For securitisation positions that are subject to an additional risk weight in accordance with Article 407, 8 % of the total risk. Except for securitisation accordance with Article 338(4), the institution from the application of this Article in order to calculate.",
+      "ref_groups": [
+        {
+          "text": "Article 407",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=94, end=101), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=102, end=105), text='407', tail=''))"
+        },
+        {
+          "text": "Article 338(4)",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=172, end=179), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=180, end=183), text='338', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=183, end=183), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=183, end=186), text='(4)', tail=''))"
+        }
+      ]
+    },
+    {
+      "input": "Subject to Articles 356 to 358, institutions shall calculate the own funds requirement for commodities risk with one of the methods set out in Article 359, 360 or 361",
+      "ref_groups": [
+        {
+          "text": "Articles 356 to 358",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=11, end=19), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=20, end=23), text='356', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=11, end=19), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=27, end=30), text='358', tail=''))"
+        },
+        {
+          "text": "Article 359, 360 or 361",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=143, end=150), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=151, end=154), text='359', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=143, end=150), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=156, end=159), text='360', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=143, end=150), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=163, end=166), text='361', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "within their territories, in accordance with Articles 25, 26(1) to (3), 28(1) and (2) and 29 to 37 either by the establishment of a branch or by way of the provision of services,",
+      "ref_groups": [
+        {
+          "text": "Articles 25, 26(1) to (3), 28(1) and (2) and 29 to 37",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=45, end=53), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=54, end=56), text='25', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=45, end=53), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=58, end=60), text='26', tail=''))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=60, end=60), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=60, end=63), text='(1)', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=60, end=60), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=67, end=70), text='(3)', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=45, end=53), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=72, end=74), text='28', tail=''))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=74, end=74), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=74, end=77), text='(1)', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=74, end=74), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=82, end=85), text='(2)', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=45, end=53), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=90, end=92), text='29', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=45, end=53), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=96, end=98), text='37', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "accordance with Title V, Chapter 4, Section 1, in particular for the purposes of the minimum own funds requirements set out in Article 75 for the control of large exposures and for purposes of the limitation of holdings provided for in Articles 120 to 122.",
+      "ref_groups": [
+        {
+          "text": "Title V, Chapter 4, Section 1",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='TIT'), span=Span(start=16, end=21), text='Title', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='AMBRA_U'), span=Span(start=22, end=23), text='V', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='CHP'), span=Span(start=25, end=32), text='Chapter', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=33, end=34), text='4', tail=''))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='SEC'), span=Span(start=36, end=43), text='Section', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=44, end=45), text='1', tail=''))"
+        },
+        {
+          "text": "Article 75",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=127, end=134), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=135, end=137), text='75', tail=None))"
+        },
+        {
+          "text": "Articles 120 to 122",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=236, end=244), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=245, end=248), text='120', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=236, end=244), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=252, end=255), text='122', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "The competent authorities of the home Member State shall ensure the supervision of the financial institution in accordance with Articles 10(1), 19 to 22, 40, 42 to 52 and 54.",
+      "ref_groups": [
+        {
+          "text": "Articles 10(1), 19 to 22, 40, 42 to 52 and 54",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=128, end=136), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=137, end=139), text='10', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value=''), span=Span(start=139, end=139), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM_BB'), span=Span(start=139, end=142), text='(1)', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=128, end=136), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=144, end=146), text='19', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=128, end=136), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=150, end=152), text='22', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=128, end=136), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=154, end=156), text='40', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=128, end=136), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=158, end=160), text='42', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=128, end=136), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=164, end=166), text='52', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=128, end=136), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=171, end=173), text='54', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Derogating from certain provisions of Regulations (eec) no 2700/93 and (ec) no 2342/1999 as regards the application of the premium schemes in the sheepmeat and goatmeat and beef and veal sectors",
+      "ref_groups": [
+        {
+          "text": "Regulations (eec) no 2700/93 and (ec) no 2342/1999",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=38, end=49), text='Regulations', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=50, end=66), text='(eec) no 2700/93', tail=' '))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=38, end=49), text='Regulations', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=71, end=88), text='(ec) no 2342/1999', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Implementing council regulation (ec, euratom) no 58/97 with regard to the series of data to be produced for structural business statistics",
+      "ref_groups": [
+        {
+          "text": "regulation (ec, euratom) no 58/97",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='REG'), span=Span(start=21, end=31), text='regulation', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EURCOO'), span=Span(start=32, end=54), text='(ec, euratom) no 58/97', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Seventh Commission Directive 76/372/EEC establishing Community methods of analysis for the official control of feedingstuffs",
+      "ref_groups": [
+        {
+          "text": "Directive 76/372/EEC",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=19, end=28), text='Directive', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=29, end=39), text='76/372/EEC', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "In Article 5 of Directive 85/611/EEC, paragraph 4 shall be replaced by the following:",
+      "ref_groups": [
+        {
+          "text": "Article 5 of Directive 85/611/EEC, paragraph 4",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='DIR'), span=Span(start=16, end=25), text='Directive', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='EULCOO'), span=Span(start=26, end=36), text='85/611/EEC', tail=''))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=3, end=10), text='Article', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=11, end=12), text='5', tail=' '))\n    └── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='PG'), span=Span(start=38, end=47), text='paragraph', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=48, end=49), text='4', tail=None))"
+        }
+      ]
+    },
+    {
+      "input": "Having regard to the Treaty establishing the European Economic Community, and in particular Articles 54 and 82 thereof",
+      "ref_groups": [
+        {
+          "text": "Treaty establishing the European Economic Community, and in particular Articles 54 and 82 thereof",
+          "ref_trees": "Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='named_entity'), span=Span(start=21, end=21), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.named_entity, value='PND_TITLE'), span=Span(start=21, end=72), text='Treaty establishing the European Economic Community', tail=''))\nCoordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='connector'), span=Span(start=111, end=111), text=None, tail=None), value=ReferenceToken(tag=ReferenceTag(group=Group.connector, value='THEREOF'), span=Span(start=111, end=118), text='thereof', tail=None))\n├── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=92, end=100), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=108, end=110), text='82', tail=' '))\n└── Coordinate(axis=ReferenceToken(tag=ReferenceTag(group=Group.axis, value='ART'), span=Span(start=92, end=100), text='Articles', tail=' '), value=ReferenceToken(tag=ReferenceTag(group=Group.value, value='NM'), span=Span(start=101, end=103), text='54', tail=' '))"
+        }
+      ]
+    }
+  ]
+}
