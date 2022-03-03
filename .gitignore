@@ -4,5 +4,6 @@ lexref.egg-info/
 dist/
 .idea/
 venv/
+old_dist/
 patterns.db
 dummy.py
