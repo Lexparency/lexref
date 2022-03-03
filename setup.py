@@ -4,9 +4,10 @@ from setuptools import setup
 setup(
     name="lexref",
     author="Martin Heimsoth",
-    author_email="martin.heimsoth@lexparency.org",
-    url="https://reflex.lexparency.org",
-    version="1.0",
+    author_email="mail@lexparency.org",
+    url="https://github.com/Lexparency/lexref",
+    description="",
+    version="1.1",
     packages=['lexref'],
     package_data={
         '': ['static/named_entity.csv'],

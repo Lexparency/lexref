@@ -24,8 +24,12 @@ python -m unittest tests/test_*
 
 echo "Building the package."
 python setup.py sdist
+python setup.py bdist_wheel
 
 echo "Reestablishing the original version of the module model/tables.py"
 mv tables_save.py lexref/model/tables.py
+
+rm -rf lexref.egg-info/
+rm -rf build
 
 echo -e "\nDone"
