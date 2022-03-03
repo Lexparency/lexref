@@ -33,3 +33,4 @@ rm -rf lexref.egg-info/
 rm -rf build
 
 echo -e "\nDone"
+echo -e "You can now upload to PyPI via\n > python -m twine upload dist/*"
