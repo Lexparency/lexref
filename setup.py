@@ -7,8 +7,8 @@ setup(
     author_email="mail@lexparency.org",
     url="https://github.com/Lexparency/lexref",
     description="",
-    version="1.0",
-    packages=['lexref'],
+    version="1.1",
+    packages=['lexref', 'lexref.model'],
     package_data={
         '': ['static/named_entity.csv'],
     },
