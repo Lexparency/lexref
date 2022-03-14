@@ -199,26 +199,6 @@ class Value(Base):
                       for tag, pattern in r.iter_sub_patterns(language)}
         return result
 
-    @staticmethod
-    def compatible(key1, key2) -> bool:
-        """ Check if given value-keys could refer to same axis. """
-        if key1 == key2:
-            return True
-        if '_' in key1:
-            key1, s1 = key1.split('_', 1)
-        else:
-            s1 = ''
-        if '_' in key2:
-            key2, s2 = key2.split('_', 1)
-        else:
-            s2 = ''
-        if 'AMBRA' not in (key1, key2):
-            return False
-        if s1 != s2:
-            return False
-        other = key1 if key1 != 'AMBRA' else key2
-        return other in ('AL', 'ROM')
-
     @classmethod
     @lru_cache()
     def tag_2_group(cls) -> dict:
